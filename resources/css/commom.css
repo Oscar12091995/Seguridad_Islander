@@ -1,0 +1,7 @@
+.accordion {
+    @apply w-full
+    }
+    
+.panel {
+    @apply  overflow-hidden 
+}
