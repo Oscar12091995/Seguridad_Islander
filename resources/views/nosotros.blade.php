@@ -27,8 +27,8 @@
           <img alt="..." class="w-full h-full object-cover rounded-lg shadow-lg wow animated fadeInRight" src="{{asset('images/seguridad.jpg')}}">
         </div>
         <div class="w-full md:w-5/12 ml-auto mr-auto px-4 mt-10">
-          <div class="md:pr-12">
-            <h3 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Acerca de Nosotros</h3>
+          <div class="md:pr-12 wow animated zoomIn">
+            <h3 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font">Acerca de Nosotros</h3>
             <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
             <p class="mt-4 text-lg text-justify">
               <span class="text-blue-900">ISLANDER</span> es empresa que nace por iniciativa de especialistas con más experiencia en el sector 
@@ -54,23 +54,23 @@
   {{-- Sección política --}}
     <section class="w-full">
         <div class="container flex flex-col items-center px-5 mx-auto  md:flex-row lg:px-28">
-            <div class="flex flex-col items-start w-full pt-0 mb-16 text-left  lg:flex-grow md:w-1/2 xl:mr-20 md:pr-24 md:mb-0">
-            <h1 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn "> Politica </h1>
-            <h4 class="w-48 border-t-4 border-solid border-blue-700"></h4>
-            <p class="mb-8 text-lg text-justify text-blueGray-600"> Las operaciones en <span class="text-blue-900">Seguridad Industrial Islander S.A. de C.V.</span>, se llevan a cabo 
-              en un ambiente de trabajo seguro y con apego al cumplimiento de 
-              regulaciones gubernamentales. </p>
-            <p class="mb-8 text-lg text-justify text-blueGray-600">
-              Para <span class="text-blue-900">Seguridad Industrial Islander S.A. de C.V.</span>, la seguridad y salud en el 
-              trabajo son una condición de empleo que garantiza la continuidad y éxito de 
-              nuestro negocio, a través de entrenamientos, comunicación permanente, 
-              auditorias periódicas, evaluaciones continuas y una participación activa con 
-              responsabilidad compartida entre empleados, clientes y proveedores.
-            </p>
+            <div class="flex flex-col items-start w-full pt-0 mb-16 text-left  lg:flex-grow md:w-1/2 xl:mr-20 md:pr-24 md:mb-0  wow animated zoomIn">
+              <h1 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font "> Politica </h1>
+              <h4 class="w-48 border-t-4 border-solid border-blue-700"></h4>
+              <p class="mb-8 text-lg text-justify text-blueGray-600"> Las operaciones en <span class="text-blue-900">Seguridad Industrial Islander S.A. de C.V.</span>, se llevan a cabo 
+                en un ambiente de trabajo seguro y con apego al cumplimiento de 
+                regulaciones gubernamentales. </p>
+              <p class="mb-8 text-lg text-justify text-blueGray-600">
+                Para <span class="text-blue-900">Seguridad Industrial Islander S.A. de C.V.</span>, la seguridad y salud en el 
+                trabajo son una condición de empleo que garantiza la continuidad y éxito de 
+                nuestro negocio, a través de entrenamientos, comunicación permanente, 
+                auditorias periódicas, evaluaciones continuas y una participación activa con 
+                responsabilidad compartida entre empleados, clientes y proveedores.
+              </p>
             
             </div>
             <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2">
-            <img class="object-cover object-center rounded-lg wow animated fadeInRight" src="{{asset('images/politica.jpg')}}">
+              <img class="object-cover object-center rounded-lg wow animated fadeInRight" src="{{asset('images/politica.jpg')}}">
             </div>
         </div>
     </section>

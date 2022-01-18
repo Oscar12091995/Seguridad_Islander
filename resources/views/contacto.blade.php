@@ -56,7 +56,7 @@
                         <input name="telefono" id="telefono"  class="w-full bg-gray-200 text-blue-900 mt-2 p-3 rounded-lg focus:border-blue-900 wow animated fadeInUp" type="number" placeholder="Telefono*" required>
                     </div>
                     <div class="my-4">
-                        <textarea name="descripcion" id="descripcion" placeholder="Descripción*" class="w-full h-32 bg-gray-200 text-blue-900 mt-2 p-3 rounded-lg focus:border-blue-900 wow animated fadeInUp" required></textarea>
+                        <textarea name="descripcion" id="descripcion" placeholder="Servicio*" class="w-full h-32 bg-gray-200 text-blue-900 mt-2 p-3 rounded-lg focus:border-blue-900 wow animated fadeInUp" required></textarea>
                     </div>
                     <div class="my-2 w-1/2 lg:w-1/4">
                         <button class="uppercase text-sm font-bold tracking-wide bg-blue-900 text-gray-100 p-3 rounded-lg w-full focus:outline-none focus:shadow-outline wow animated fadeInUp">

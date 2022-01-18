@@ -1,17 +1,17 @@
 <h1>Mensaje Recibido de {{ $nombre }}</h1>
 <p>
-    <b>Nombre: {{$apellido}} {{$nombre}}</b>
+    <h1 class="font-bold">Nombre: {{$apellido}} {{$nombre}}</h1>
 </p>
 <p>
-    <b>
+    <h2 class="font-bold">
         Email: {{$correo}}
-    </b>
+    </h2>
 </p>
 <p>
-    <b>
+    <h2 class="font-bold">
         Telefono: {{$telefono}}
-    </b>
+    </h2>
 </p>
-<p>
-    Descripcion: {{$descripcion}}
+<p class="font-bold">
+    Descripcion de las necesidades: {{$descripcion}}
 </p>

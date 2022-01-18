@@ -17,8 +17,8 @@
         {{-- Seccion Misión y Visión --}}
         <section class="bg-white mb-12">
             <div class="md:flex bg-blue-900">
-                <div class="w-full h-96 overflow-hidden bg-cover bg-center sm:w-1/2" style="background-image: url('https://images.unsplash.com/photo-1547949003-9792a18a2601?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80')">
-                    <div class="bg-opacity-50 flex items-center text-center h-full bg-blue-900 wow animated slideInLeft">
+                <div class="w-full h-96 overflow-hidden bg-cover bg-center sm:w-1/2" style="background-image: url({{asset('images/welder-gae79187c5_1920.jpg')}});">
+                    <div class="bg-opacity-50 flex items-center text-center h-full bg-blue-900 wow animated slideInLeft">{{-- welder-gae79187c5_1920 --}}
                         <div class="md:mx-auto max-w-xl px-3">
                             <i class="text-5xl text-white font-semibold fas fa-university"></i>
                             <h2 class="text-2xl text-white font-semibold ">Nuesta Visión</h2>
@@ -50,7 +50,7 @@
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:px-4">
                   <div class="md:pr-12 text-center md:py-2">
                     <h3 class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">¿Qué Realizamos?</h3>
-                    <p class="mt-4 text-lg text-black leading-relaxed text-justify px-3">
+                    <p class="mt-4 text-lg text-black leading-relaxed text-justify px-3 wow animated zoomIn">
                       En <span class="text-blue-900 font-bold">Seguridad Industrial Islander S.A. de C.V.</span> nuestra experiencia en el sector 
                       de Seguridad y Salud en el Trabajo, (SST) comprometida a ofrecer los más altos estándares mundiales de 
                       consultoría, capacitación, estudios y tramites a las empresas
@@ -156,9 +156,9 @@
         {{-- Sección asesoría --}}        
         <section class="bg-white">
           <div class="bg-blue-900 md:w-full h-64 py-8">
-            <div class="items-center text-center pt-8 ">
-              <h2 class="text-4xl text-white mb-8">¿Necesitas Asesoría?</h2>            
-               <a href="/contacto" class="border rounded px-8 py-6 text-2xl border-white hover:bg-white hover:text-blue-900 bg-blue-900 text-white btn-outline btn-primary">
+            <div class="items-center text-center pt-8 wow animated fadeInDown">
+              <h2 class="text-4xl text-white mb-8 ">¿Necesitas Asesoría?</h2>            
+               <a href="/contacto" class="border rounded px-8 py-6 text-2xl border-white hover:bg-white hover:text-blue-900 bg-blue-900 text-white">
                 Contáctanos
                </a>
             </div>
