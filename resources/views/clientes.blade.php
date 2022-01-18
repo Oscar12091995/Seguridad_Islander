@@ -34,7 +34,7 @@
 {{--Fin sección compromiso --}}
 
 {{-- Sección slide --}}
-<section class="mt-12">
+<section class="mt-12 w-full">
     <div class="slider">
         <div class="slide-track text-center items-center justify-center h-64">
             {{-- <div class="slide"><img src="{{asset('images/industrial-1636390_1920.jpg')}}" alt=""></div> --}}
