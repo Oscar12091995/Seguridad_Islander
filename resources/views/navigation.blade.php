@@ -111,8 +111,8 @@
 </style>
   </head>
     
-	<div class="bg-blue-900 sm:mx-auto h-12 block w-full items-center fixed z-50 text-center">
-	  	<h2 class="border-b-2 border-transparent text-white uppercase ml-16 pt-2"><i class="fas fa-clock"></i> Lun a Vie 8:30 a 17:30 - Asistencia 24 hrs</h2>
+	<div class="bg-blue-900 h-12 block w-full items-center fixed z-50 text-center">
+	  	<h2 class="border-b-2 text-center border-transparent text-white uppercase mx-8 pt-2"><i class="fas fa-clock"></i> Lun a Vie 8:30 a 17:30 - Asistencia 24 hrs</h2>
 	</div>
 	<nav class="bg-white shadow mx-auto h-16 w-11/12 inset-x-0 top-10 fixed z-50 justify-between px-4 py-4 items-center">
 		<div class="lg:hidden">
@@ -220,7 +220,7 @@
 	</div>
 
 	<div class="md:hidden sm:block w-full bottom-4 right-4 items-center fixed z-50">
-		<button class="sm:hidden float-right block text-center mb-2 mt-1 items-center justify-center w-10 h-10 rounded-full bg-blue-900 text-white hover:text-5xl animate-pulse" href="tel:+528211177741"  data-bs-toggle="tooltip" title="Llamar!" data-bs-placement="left"><i class="text-2xl cursor-pointer fas fa-phone-alt mt-1"></i></button>
+		<a class="sm:hidden float-right block text-center mb-2 mt-1 items-center justify-center w-10 h-10 rounded-full bg-blue-900 text-white hover:text-5xl" href="tel:+528211177741"><i class="text-2xl fas fa-phone-alt mt-1"></i></a>
 	</div>
 
 @yield('nosotros')
@@ -236,7 +236,7 @@
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
 	  <div class="flex flex-wrap justify-center items-center">
 		<div class="w-full lg:w-4/12 px-4">
-		  <img src="{{asset('images/ISLANDER.PNG')}}" alt="">
+		  <img src="{{ asset('images/ISLANDER.PNG')}} " alt="">
 		</div>
 		<div class="w-full lg:w-4/12 px-4 text-center">
 		
