@@ -27,7 +27,7 @@
     	margin: auto;
     	overflow: hidden;
     	position: relative;
-    	width: 1140px;
+    	width: full;
 	}
 
 	.slider::before, .slider::after {
@@ -111,10 +111,10 @@
 </style>
   </head>
     
-	<div class="bg-blue-900 h-12 block w-full items-center fixed z-50 text-center">
-	  	<h2 class="border-b-2 text-center border-transparent text-white uppercase mx-8 pt-2"><i class="fas fa-clock"></i> Lun a Vie 8:30 a 17:30 - Asistencia 24 hrs</h2>
+	<div class="bg-blue-900 h-14 block w-full items-center fixed z-50 text-center">
+	  	<h2 class="border-b-2 text-center border-transparent text-white uppercase mx-4 pt-2"><i class="fas fa-clock"></i> Lun a Vie 8:30 a 17:30 - Asistencia 24 hrs</h2>
 	</div>
-	<nav class="bg-white shadow mx-auto h-16 w-11/12 inset-x-0 top-10 fixed z-50 justify-between px-4 py-4 items-center">
+	<nav class="bg-white shadow mx-auto h-16 w-11/12 inset-x-0 top-10 md:top-12 fixed z-50 justify-between px-4 py-4 items-center">
 		<div class="lg:hidden">
 			<button class="navbar-burger flex items-center text-blue-600 p-3">
 				<svg class="block h-4 w-4 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -177,10 +177,6 @@
 					</li>
 					<li class="{{ Request::is( 'nosotros') ? 'activa' : '' }}"><a class="activa block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 uppercase" href="nosotros">Sobre nosotros</a>
 					</li>
-					<li class="{{ Request::is( 'clientes') ? 'activa' : '' }}"><a class="active block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 uppercase" href="clientes">Clientes</a>
-					</li>
-					<li class="{{ Request::is( 'contacto') ? 'activa' : '' }}"><a class="active block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 uppercase" href="contacto">Contacto</a>
-					</li>
 					<li @click.away="open = false" x-data="{ open: false }" class="">
 						<button @click="open = !open" class="block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded uppercase">Servicios</button>
 						<div x-show="open" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="inline-block right-0 w-full origin-top-right shadow-lg sm:w-64">
@@ -194,6 +190,11 @@
 							</div>
 						  </div>	
 					</li>
+					<li class="{{ Request::is( 'clientes') ? 'activa' : '' }}"><a class="active block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 uppercase" href="clientes">Clientes</a>
+					</li>
+					<li class="{{ Request::is( 'contacto') ? 'activa' : '' }}"><a class="active block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 uppercase" href="contacto">Contacto</a>
+					</li>
+					
 				</ul>
 			</div>
 			<div class="mt-auto">
@@ -231,12 +232,11 @@
 @yield('consultoria')
 
 <footer class="flex pt-8 pb-6 z-0 bg-white">
-	
 	<div class="container mx-auto px-4">
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
 	  <div class="flex flex-wrap justify-center items-center">
 		<div class="w-full lg:w-4/12 px-4">
-		  <img src="{{ asset('images/LOGO.PNG')}} " alt="">
+		  <img src="{{ asset('../images/LOGO.PNG')}} " alt="">
 		</div>
 		<div class="w-full lg:w-4/12 px-4 text-center">
 		
@@ -282,7 +282,7 @@
 		</div>
 	  </div>
 	</div>
-  </footer>
+</footer>
 
 <script src="{{ asset('js/wow.min.js') }}"></script>
 <script src="{{ asset('js/hamburger.js') }}"></script>

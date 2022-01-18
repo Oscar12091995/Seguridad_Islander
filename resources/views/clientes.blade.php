@@ -35,26 +35,23 @@
 
 {{-- Sección slide --}}
 <section class="mt-12 w-full">
-    <div class="slider">
-        <div class="slide-track text-center items-center justify-center h-64">
+    <div class="slider w-full">
+        <div class="slide-track text-center items-center justify-center h-64 w-full">
             {{-- <div class="slide"><img src="{{asset('images/industrial-1636390_1920.jpg')}}" alt=""></div> --}}
-            <div class="slide object-center"><img class="mx-4 object-cover" src="{{asset('images/AJE.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/AJEMEX.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/APTIV.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/FINSA.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/KARCHER.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/KELLOGS.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-8 object-cover" src="{{asset('images/KRISTAL.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/LINARES.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/MARS.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/OSTER.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/PALMEX.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 w-24 h-24 object-cover" src="{{asset('images/SAG.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/SHOWA.png')}}" alt=""></div>
-            <div class="slide"><img class="mx-4 object-cover" src="{{asset('images/SIGMA.png')}}" alt=""></div>
-            {{-- <div class="slide"></div>
-            <div class="slide"></div>
-            <div class="slide"></div> --}}
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/AJE.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/AJEMEX.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/APTIV.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/FINSA.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/KARCHER.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/KELLOGS.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-8 object-cover" src="{{asset('images/KRISTAL.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/LINARES.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/MARS.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/OSTER.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/PALMEX.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="object-cover" src="{{asset('images/SAG.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/SHOWA.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/SIGMA.png')}}" alt=""></div>
         </div>
     </div>
 </section>
