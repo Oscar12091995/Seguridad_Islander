@@ -24,7 +24,7 @@
 <section class="mt-20 w-full">
     <div class="items-center flex flex-wrap">
         <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-          <img alt="..." class="w-full h-full object-cover rounded-lg shadow-lg wow animated fadeInRight" src="{{asset('images/seguridad.jpg')}}">
+          <img alt="..." class="w-full h-full object-cover rounded-lg shadow-lg wow animated fadeInLeft" src="{{asset('images/seguridad.jpg')}}">
         </div>
         <div class="w-full md:w-5/12 ml-auto mr-auto px-4 mt-10">
           <div class="md:pr-12 wow animated zoomIn">
@@ -70,7 +70,7 @@
             
             </div>
             <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2">
-              <img class="object-cover object-center rounded-lg wow animated fadeInRight" src="{{asset('images/politica.jpg')}}">
+              <img class="object-cover object-center rounded-lg wow animated fadeInLeft" src="{{asset('images/politica.jpg')}}">
             </div>
         </div>
     </section>
