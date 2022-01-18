@@ -111,8 +111,8 @@
 </style>
   </head>
     
-	<div class="bg-blue-900 h-12 block w-full items-center fixed z-50 text-center">
-	  	<h2 class="border-b-2 border-transparent text-white uppercase ml-16 pt-2"><i class="fas fa-clock"></i> Lun a Vie 8:30 a 17:30</h2>
+	<div class="bg-blue-900 sm:mx-auto h-12 block w-full items-center fixed z-50 text-center">
+	  	<h2 class="border-b-2 border-transparent text-white uppercase ml-16 pt-2"><i class="fas fa-clock"></i> Lun a Vie 8:30 a 17:30 - Asistencia 24 hrs</h2>
 	</div>
 	<nav class="bg-white shadow mx-auto h-16 w-11/12 inset-x-0 top-10 fixed z-50 justify-between px-4 py-4 items-center">
 		<div class="lg:hidden">
@@ -236,7 +236,7 @@
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
 	  <div class="flex flex-wrap justify-center items-center">
 		<div class="w-full lg:w-4/12 px-4">
-		  <img src="{{asset('images/LOGO ISLANDER 2021.PNG')}}" alt="">
+		  <img src="{{asset('images/ISLANDER.PNG')}}" alt="">
 		</div>
 		<div class="w-full lg:w-4/12 px-4 text-center">
 		
@@ -277,7 +277,7 @@
 		<div class="w-full md:w-4/12 px-4 mx-auto text-center">
 		  <div class="text-sm font-semibold py-1">
 			Copyright © <span id="get-current-year">2021</span><a href="/" class="hover:text-gray-800"> Seguridad Industrial
-			<a href="https://www.creative-tim.com?ref=njs-profile" class="">ISLANDER</a>.
+			<a href="/" class="">ISLANDER</a>.
 		  </div>
 		</div>
 	  </div>

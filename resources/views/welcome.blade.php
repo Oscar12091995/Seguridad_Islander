@@ -7,7 +7,7 @@
                 <div class="bg-center bg-cover w-full h-screen flex items-center justify-center" style="background-image: url({{asset('images/helmet-1636348_1920.jpg')}});">
                     <div class="w-screen h-screen justify-center bg-black bg-opacity-50 transition duration-300 ease-in-out">
                         <div class="text-white w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center ">
-                          <img src="{{asset('images/LOGO ISLANDER 2021.PNG')}}" class="wow animated fadeInLeft" alt="">
+                          <img src="{{asset('images/ISLANDER.PNG')}}" class="wow animated fadeInLeft" alt="">
                         </div>
                     </div>           
                 </div>
