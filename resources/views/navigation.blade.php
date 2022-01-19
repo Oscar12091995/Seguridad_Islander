@@ -6,6 +6,7 @@
 
         <title>Seguridad Islander</title>
 
+		{!! app('seotools')->generate() !!}
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
@@ -231,6 +232,7 @@
 @yield('servicios')
 @yield('consultoria')
 
+{{-- seccon footer --}}
 <footer class="flex pt-8 pb-6 z-0 bg-white">
 	<div class="container mx-auto px-4">
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
@@ -283,6 +285,7 @@
 	  </div>
 	</div>
 </footer>
+{{-- fin seccion footer --}}
 
 <script src="{{ asset('js/wow.min.js') }}"></script>
 <script src="{{ asset('js/hamburger.js') }}"></script>

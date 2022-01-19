@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () { return view('welcome'); })->name('inicio');
+Route::get('/', function () {return view('welcome'); })->name('inicio');
 Route::get('nosotros', function () { return view('nosotros'); })->name('nosotros');
 Route::get('clientes', function () { return view('clientes'); })->name('clientes');
 Route::get('contacto', function () { return view('contacto'); })->name('contacto');
@@ -24,4 +24,4 @@ Route::post('messages', function(){
 })->name('messages');
 
 Route::get('servicios', function () { return view('lista-servicios.servicios'); })->name('servicios');
-Route::get('consultoria', function () { return view('lista-servicios.consultoria'); })->name('consultoria');
+
