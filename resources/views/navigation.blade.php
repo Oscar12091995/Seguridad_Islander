@@ -238,7 +238,7 @@
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
 	  <div class="flex flex-wrap justify-center items-center">
 		<div class="w-full lg:w-4/12 px-4">
-		  <img src="{{ asset('images/LOGO.png')}} " alt="">
+		  <img src="{{ asset('images/LOGO.png')}} " alt="ISLANDER logo">
 		</div>
 		<div class="w-full lg:w-4/12 px-4 text-center">
 		

@@ -7,7 +7,7 @@
                 <div class="bg-center bg-cover w-full h-screen flex items-center justify-center" style="background-image: url({{asset('images/helmet-1636348_1920.jpg')}});">
                     <div class="w-screen h-screen justify-center bg-black bg-opacity-50 transition duration-300 ease-in-out">
                         <div class="text-white w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center ">
-                          <img src="{{asset('images/LOGO.png')}}" class="wow animated fadeInLeft" alt="">
+                          <img src="{{asset('images/LOGO.png')}}" class="wow animated fadeInLeft" alt="ISLANDER logo">
                         </div>
                     </div>           
                 </div>
@@ -45,7 +45,7 @@
         <section class="bg-white z-0">
             <div class="items-center flex flex-wrap bg-white z-0">
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:pl-12 bg-white">
-                  <img alt="..." class="h-full w-full object-cover rounded-lg shadow-lg wow animated fadeInLeft z-0" src="{{asset('images/fire-fighting-4495488_640.jpg')}}">
+                  <img alt="bomberos" class="h-full w-full object-cover rounded-lg shadow-lg wow animated fadeInLeft z-0" src="{{asset('images/fire-fighting-4495488_640.jpg')}}">
                 </div>
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:px-4">
                   <div class="md:pr-12 text-center md:py-2">
@@ -61,7 +61,6 @@
         </section>
         {{-- Fin sección que realizamos --}}
         
-
         {{-- Sección --}}
         <section class="pb-10 mb-10 mt-10 bg-white">
           <div class="mx-8 sm:px-4 lg:px-48  wow animated fadeInUp">

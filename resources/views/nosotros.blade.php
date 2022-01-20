@@ -24,7 +24,7 @@
 <section class="mt-20 w-full">
     <div class="items-center flex flex-wrap">
         <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-          <img alt="..." class="w-full h-full object-cover rounded-lg shadow-lg wow animated fadeInLeft" src="{{asset('images/seguridad.jpg')}}">
+          <img alt="EPP" class="w-full h-full object-cover rounded-lg shadow-lg wow animated fadeInLeft" src="{{asset('images/seguridad.jpg')}}">
         </div>
         <div class="w-full md:w-5/12 ml-auto mr-auto px-4 mt-10">
           <div class="md:pr-12 wow animated zoomIn">
@@ -70,26 +70,26 @@
             
             </div>
             <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2">
-              <img class="object-cover object-center rounded-lg wow animated fadeInLeft" src="{{asset('images/politica.jpg')}}">
+              <img class="object-cover object-center rounded-lg wow animated fadeInLeft" src="{{asset('images/politica.jpg')}}" alt="seguridad en resultados">
             </div>
         </div>
     </section>
     {{-- Fin sección política --}}
   
     {{-- Sección valores --}}
-    <section class="px-48 my-10">
-        <div class="hidden lg:block">
+    <section class="px-48 my-10 sm:px-12">
+        <div class="hidden lg:block sm:px-12">
             <div class="items-center text-center justify-center w-full flex flex-col col-span-12">
                 <h3 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Nuestros Valores</h3>
                 <h4 class="w-96 border-t-4 border-solid border-blue-700"></h4>
             </div>
             <ul class="flex my-12 space-x-12 justify-center">
-              <li><a href="#" class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Confianza</a></li>
-              <li><a href="#" class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Humildad</a></li>
-              <li><a href="#" class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Flexibilidad</a></li>
-              <li><a href="#" class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Confidencialidad</a></li>
-              <li><a href="#" class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Responsabilidad</a></li>
-              <li><a href="#" class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Servicio</a></li>
+              <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Confianza</span></li>
+              <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Humildad</span></li>
+              <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Flexibilidad</span></li>
+              <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Confidencialidad</span></li>
+              <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Responsabilidad</span></li>
+              <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Servicio</span></li>
             </ul>
         </div>
     </section>
@@ -105,7 +105,7 @@
             <div class="flex">
               <div class="w-1/4">
                 <div class="relative mb-2">
-                  <div class="w-10 h-10 mx-auto bg-blue-500 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
+                  <div class="w-10 h-10 mx-auto bg-red-600 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
                     <span class="text-center text-white w-full">
                         <span class="text-center text-white w-full">
                             <i class="far fa-check-circle"></i>  
@@ -121,11 +121,11 @@
                 <div class="relative mb-2">
                   <div class="absolute flex align-center items-center align-middle content-center" style="width: calc(100% - 2.5rem - 1rem); top: 50%; transform: translate(-50%, -50%)">
                     <div class="w-full bg-gray-200 rounded items-center align-middle align-center flex-1 wow animated fadeInRight">
-                      <div class="w-0 bg-blue-300 py-1 rounded wow animated fadeInRight" style="width: 100%;"></div>
+                      <div class="w-0 bg-red-300 py-1 rounded wow animated fadeInRight" style="width: 100%;"></div>
                     </div>
                   </div>
           
-                  <div class="w-10 h-10 mx-auto bg-pink-500 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
+                  <div class="w-10 h-10 mx-auto bg-red-600 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
                     <span class="text-center text-white w-full">
                         <span class="text-center text-white w-full">
                             <i class="far fa-check-circle"></i>  
@@ -141,11 +141,11 @@
                 <div class="relative mb-2">
                   <div class="absolute flex align-center items-center align-middle content-center" style="width: calc(100% - 2.5rem - 1rem); top: 50%; transform: translate(-50%, -50%)">
                     <div class="w-full bg-gray-200 rounded items-center align-middle align-center flex-1 wow animated fadeInRight">
-                      <div class="w-0 bg-pink-300 py-1 rounded wow animated fadeInRight" style="width: 100%;"></div>
+                      <div class="w-0 bg-yellow-200 py-1 rounded wow animated fadeInRight" style="width: 100%;"></div>
                     </div>
                   </div>
           
-                  <div class="w-10 h-10 mx-auto bg-green-500 border-2 border-gray-200 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
+                  <div class="w-10 h-10 mx-auto bg-yellow-500 border-2 border-gray-200 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
                     <span class="text-center text-gray-600 w-full">
                         <span class="text-center text-white w-full">
                             <i class="far fa-check-circle"></i>  
@@ -161,11 +161,11 @@
                 <div class="relative mb-2">
                   <div class="absolute flex align-center items-center align-middle content-center" style="width: calc(100% - 2.5rem - 1rem); top: 50%; transform: translate(-50%, -50%)">
                     <div class="w-full bg-green-200 rounded items-center align-middle align-center flex-1 wow animated fadeInRight">
-                      <div class="w-0 bg-green-300 py-1 rounded wow animated fadeInRight" style="width: 100%;"></div>
+                      <div class="w-0 bg-yellow-200 py-1 rounded wow animated fadeInRight" style="width: 100%;"></div>
                     </div>
                   </div>
           
-                  <div class="w-10 h-10 mx-auto bg-purple-500 border-2 border-gray-200 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
+                  <div class="w-10 h-10 mx-auto bg-yellow-500 border-2 border-gray-200 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
                     <span class="text-center text-white w-full">
                         <span class="text-center text-red w-full">
                             <i class="far fa-check-circle"></i>  
@@ -180,13 +180,13 @@
               <div class="w-1/4">
                 <div class="relative mb-2">
                   <div class="absolute flex align-center items-center align-middle content-center" style="width: calc(100% - 2.5rem - 1rem); top: 50%; transform: translate(-50%, -50%)">
-                    <div class="w-full bg-purple-300 rounded items-center align-middle align-center flex-1 wow animated fadeInRight">
-                      <div class="w-0 bg-purple-300 py-1 rounded wow animated fadeInRight" style="width: 0%;"></div>
+                    <div class="w-full bg-green-300 rounded items-center align-middle align-center flex-1 wow animated fadeInRight">
+                      <div class="w-0 bg-green-300 py-1 rounded wow animated fadeInRight" style="width: 0%;"></div>
                     </div>
                   </div>
           
-                  <div class="w-10 h-10 mx-auto bg-yellow-500 border-2 border-gray-200 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
-                    <span class="text-center text-yellow-600 w-full">
+                  <div class="w-10 h-10 mx-auto bg-green-500 border-2 border-gray-200 rounded-full text-lg text-white flex items-center wow animated fadeInRight">
+                    <span class="text-center text-yellow-500 w-full">
                         <span class="text-center text-white w-full">
                             <i class="far fa-check-circle"></i>  
                         </span>
@@ -200,4 +200,20 @@
           </div>
     </section>
     {{-- Fin sección cultura --}}
+
+    {{-- seccion --}}
+    <section class="my-12 hidden lg:block">
+      <div class="lg:block flex">
+          <ul class="flex my-12 lg:space-x-10 sm:space-x-0 justify-center">
+            <li><span class="text-2xl text-red-600 ml-0 mr-0 xl:ml-12 xl:mr-16 font-semibold wow animated fadeIn hover:text-4xl">Dependiente</span></li>
+            <li><span class="text-2xl font-semibold mr-0 ml-0 xl:mr-48 xl:ml-36 text-yellow-600 wow animated fadeIn">Independiente</span></li>
+            <li><span class="text-2xl font-semibold ml-0 xl:ml-8 text-green-600 wow animated fadeIn">Interdependiente</span></li>
+          </ul>
+        </div>
+        <div class="items-center text-center justify-center w-full flex flex-col sm:col-span-12">
+          <h3 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Nivel Cultural</h3>
+          
+      </div>
+    </section>
+    {{-- fin seccion --}}
 @stop

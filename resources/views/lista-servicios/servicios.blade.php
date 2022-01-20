@@ -29,6 +29,7 @@
           <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#five">Capacitación</a></li>
           <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#six">Protección Civil</a></li>
           <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#seven">Medio Ambiente</a></li>
+          <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#eight">Permisos Vigentes</a></li>
         </ul>
       </div>
     <div class="md:w-10/12" style="overflow: -moz-scrollbars-vertical; overflow-y: scroll;height:550px;">
@@ -319,33 +320,7 @@
               <div class="md:pr-12">
                    <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h3>
                    <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
-                      {{-- <div class="mt-4 text-lg text-justify">
-                        <h3 class="mb-2 text-xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil</h3>
-                        <span class="font-bold text-2xl">I. Capacitación de Brigadas de Emergencias</span>
-                          <ul>
-                              <li>Diseno de simulacros</li>
-                              <li>Brigada de Comunicación o Comando de Incidentes</li>
-                              <li>Brigada de Evacuación</li>
-                              <li>Brigada de Primeros auxilios</li>
-                              <li>Brigada de Búsqueda y Rescate</li>
-                              <li>Brigada de Combate de Incendios</li>
-                              <li> Brigada de Materiales Peligrosos</li>
-                          </ul>
-            
-                        <span class="font-bold text-2xl">II.  Simulacros de Emergencias</span>
-                            <ul>
-                              <li>Simulacros de Evacuación - Riesgos Ordinarios</li>
-                              <li>Simulacros EPRE – Riesgos Altos</li>
-                            </ul>
-            
-                        <span class="font-bold text-2xl">III. Planes de Contingencias</span>
-                          <ul>
-                            <li>Programa Interno de Protección Civil</li>
-                            <li> Planes de Contingencias</li>
-                          </ul>
-                      </div> --}}
-                      <div class="mt-4 text-lg text-justify" >
-                        
+                      <div class="mt-4 text-lg text-justify" >                        
                         <span class="text-2xl font-semibold text-gray-800 capitalize">I. Gestión Ambiental</span>
                         <hr class="my-4">
                           <ul class="pl-12">
@@ -396,6 +371,32 @@
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de Ruido Perimetral.</li>
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Entre otros...</li>
                           </ul>
+                      </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="eight" class="hidden p-4">
+          <div class="items-center flex flex-wrap">
+            <div class="w-full md:w-12/12 flex">
+              <div class="md:pr-12">
+                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h3>
+                   <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
+                      <div class="mt-4 text-lg text-justify" >                        
+                        <span class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación</span>
+                        <hr class="my-4">
+                          <ul class="pl-12">
+                            <li><i class="far fa-check-circle text-green-500 text-justify"></i> <a href="{{asset('files/Registro_STPS_Pag1.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Registro STPS Pág. 1 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
+                            <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/Registro_STPS_Pag2.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Registro STPS Pág. 2 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
+                            <li><i class="far fa-check-circle text-green-500 text-justify mb-4"></i><a href="{{asset('files/Registro_STPS_Pag3.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Registro STPS Pág. 3 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
+                          </ul>
+            
+                        <span class="text-2xl font-semibold text-gray-800 capitalize">II. Protección Civil</span>
+                        <hr class="my-4">
+                            <ul class="pl-12">
+                              <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/RegDPCE-APF-035-2020.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Reg. DPCE-APF-035-2020 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
+                              <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/RegDPCE-IPF-262-2020.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Reg. DPCE-IPF-262-2020 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
+                            </ul>
                       </div>
               </div>
             </div>
