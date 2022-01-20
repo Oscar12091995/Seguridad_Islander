@@ -380,7 +380,7 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 flex">
               <div class="md:pr-12">
-                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h3>
+                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Permisos Vigentes</h3>
                    <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                       <div class="mt-4 text-lg text-justify" >                        
                         <span class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación</span>

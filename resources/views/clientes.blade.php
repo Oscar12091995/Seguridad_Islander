@@ -39,7 +39,7 @@
         <div class="slide-track text-center items-center justify-center h-64 w-full">
             {{-- <div class="slide"><img src="{{asset('images/industrial-1636390_1920.jpg')}}" alt=""></div> --}}
             <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/AJE.png')}}" alt=""></div>
-            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/AJEMEX.png')}}" alt=""></div>
+            <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/INMSO.jpg')}}" alt=""></div>
             <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/APTIV.png')}}" alt=""></div>
             <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/FINSA.png')}}" alt=""></div>
             <div class="slide object-center w-screen"><img class="mx-4 object-cover" src="{{asset('images/KARCHER.png')}}" alt=""></div>
