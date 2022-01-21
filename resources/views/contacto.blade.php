@@ -92,8 +92,8 @@
                             </div>
                             <div class="flex flex-col">
                                 <h2 class="text-2xl">Llamanos!</h2>
-                                <p class="text-gray-300">Tel: 821-100-9115</p>
-                                <p class="text-gray-300">Tel: 821-105-0288</p>
+                                <p class="text-gray-300">Tel: 821-117-77-41</p>
+                                <p class="text-gray-300">Tel: 821-105-02-88</p>
                             </div>
                         </div>
               

@@ -114,7 +114,7 @@
                   </div>
                 </div>
           
-                <div class="text-xs text-center md:text-base wow animated fadeInRight">Indeferencia</div>
+                <div class="text-xs text-center md:text-base wow animated fadeInRight">Indiferencia</div>
               </div>
           
               <div class="w-1/4">
@@ -174,7 +174,7 @@
                   </div>
                 </div>
           
-                <div class="text-xs text-center md:text-base wow animated fadeInRight">Garantizar la Sostentabilidad</div>
+                <div class="text-xs text-center md:text-base wow animated fadeInRight">Garantizar la Sustentabilidad</div>
               </div>
 
               <div class="w-1/4">

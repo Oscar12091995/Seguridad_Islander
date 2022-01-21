@@ -64,14 +64,14 @@
                       <ul>
                         <div class="pl-12 my-4 text-justify">
                           <li><i class="far fa-check-circle text-green-500"></i> Reducción de Pagos por prima de riesgo ante el IMSS.</li>
-                        <li><i class="far fa-check-circle text-green-500"></i> Reducción de perdidas(daños a equipos o a la propiedad).</li>
-                        <li><i class="far fa-check-circle text-green-500"></i> Reducción de gastos por sobreconsumo de equipo de protección personal y manejo inadecuado de Herramientas
+                        <li><i class="far fa-check-circle text-green-500"></i> Reducción de pérdidas (daños a equipos o a la propiedad).</li>
+                        <li><i class="far fa-check-circle text-green-500"></i> Reducción de gastos por sobreconsumo de equipo de protección personal y manejo inadecuado de herramientas
                           manuales etc.
                         </li>
                         <li><i class="far fa-check-circle text-green-500"></i> Mejorar el ambiente laboral (exposición a ruido, temperaturas, ergonomía etc.)</li>
                         <li><i class="far fa-check-circle text-green-500"></i> Fomentar el trabajo en equipo.</li>
                         <li><i class="far fa-check-circle text-green-500"></i> Se mide el impacto de un accidente, enfermedad o medio ambiente (KPI's)</li>
-                        <li><i class="far fa-check-circle text-green-500"></i> Mejora la disciplina y el reconocimiento por el cumplimiento de objetivos.</li>
+                        <li><i class="far fa-check-circle text-green-500"></i> Mejorar la disciplina y el reconocimiento por el cumplimiento de objetivos.</li>
                         <li><i class="far fa-check-circle text-green-500"></i> Crear un sentido de pertinencia en los proyectos de mejora.</li>
                         <li><i class="far fa-check-circle text-green-500"></i> Crear una cultura de trabajo independiente e interdependiente.</li>
                         <a href="http://autogestionsst.stps.gob.mx/Proyecto/Publico/Default.aspx" data-bs-toggle="tooltip" title="Clic aquí!" target="_blank"><i class="far fa-check-circle text-green-500"></i><u> Fundamentos Legales</u><i class=""></i></a>
@@ -92,16 +92,16 @@
                         <span class="text-2xl font-semibold text-gray-800 capitalize">I. Estudios de Riesgos</span>
                         <hr class="my-4">
                         <ul class="pl-12">
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos de prevención y protección contra incendios <span class="text-blue-900 font-semibold">(NOM-002-STPS-2010)</span>.</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos de los sistema de protección y dispositivos de seguridad en maquinaria y 
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de prevención y protección contra incendios <span class="text-blue-900 font-semibold">(NOM-002-STPS-2010)</span>.</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de los sistemas de protección y dispositivos de seguridad en maquinaria y 
                             equipo <span class="text-blue-900 font-semibold">(NOM-004-STPS-1999)</span>.</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos de Manejo, transporte y almacenamiento de sustancias químicas peligrosas <span class="text-blue-900 font-semibold">(NOM-005-STPS-1998)</span>.</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos de trabajos en alturas <span class="text-blue-900 font-semibold">(NOM-009-STPS-2011)</span>.</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de manejo, transporte y almacenamiento de sustancias químicas peligrosas <span class="text-blue-900 font-semibold">(NOM-005-STPS-1998)</span>.</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de trabajos en alturas <span class="text-blue-900 font-semibold">(NOM-009-STPS-2011)</span>.</li>
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de la selección, uso y manejo del equipo de protección personal <span class="text-blue-900 font-semibold">(NOM-017-
                             STPS-2008)</span>.</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos en la actividades de soldadura y corte - <span class="text-blue-900 font-semibold">(NOM-027-STPS-2008)</span>.</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos en la construcción de obras medianas y grandes - <span class="text-blue-900 font-semibold">(NOM-031-STPS-2011)</span>.</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgos en la actividades en espacios confinados - <span class="text-blue-900 font-semibold">(NOM-033-STPS-2015)</span>.</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo en la actividades de soldadura y corte - <span class="text-blue-900 font-semibold">(NOM-027-STPS-2008)</span>.</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo en la construcción de obras medianas y grandes - <span class="text-blue-900 font-semibold">(NOM-031-STPS-2011)</span>.</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo en la actividades en espacios confinados - <span class="text-blue-900 font-semibold">(NOM-033-STPS-2015)</span>.</li>
                         </ul>
                     </div>
               </div>
@@ -175,7 +175,7 @@
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Uso y Manejo adecuado de Herramientas Manuales</li>
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Manejo de Sustancias Químicas Peligrosas</li>
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Manejo y Almacenamiento de Materiales</li>
-                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Equipo de Protección Persona</li>
+                          <li><i class="far fa-check-circle text-green-500 text-justify"></i> Equipo de Protección Personal</li>
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Conservación de la Audición – Ruido</li>
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Protección Respiratoria</li>
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Comisión de Seguridad e Higiene</li>
@@ -326,7 +326,7 @@
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Sistema de Gestión Ambiental.</li>
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Calculo de Indicadores: Agua, Energeticos, Residuos etc.</li>
-                            <li><i class="far fa-check-circle text-green-500 text-justify"></i> Politica Ambiental</li>
+                            <li><i class="far fa-check-circle text-green-500 text-justify"></i> Política Ambiental</li>
                           </ul>
             
                         <span class="text-2xl font-semibold text-gray-800 capitalize">II. Emergencias Ambientales</span>
@@ -341,7 +341,7 @@
                         <span class="text-2xl font-semibold text-gray-800 capitalize">III. Energía.</span>
                         <hr class="my-4">
                           <ul class="pl-12">
-                            <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de Aspectos Ambientales Significativos (Energeticos).</li>
+                            <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de Aspectos Ambientales Significativos (Energéticos).</li>
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Ahorro y uso eficiente de la Energía.</li>
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de áreas y equipos de mayor consumo energético.</li>
                           </ul>

@@ -21,8 +21,8 @@
                     <div class="bg-opacity-50 flex items-center text-center h-full bg-blue-900 wow animated slideInLeft">{{-- welder-gae79187c5_1920 --}}
                         <div class="md:mx-auto max-w-xl px-3">
                             <i class="text-5xl text-white font-semibold fas fa-university"></i>
-                            <h2 class="text-2xl text-white font-semibold ">Nuesta Visión</h2>
-                            <p class="mt-2 text-white text-justify">Ser un socio estratégico entre nuestros clientes a través de la reducción del 15 % anual de lesiones, enfermedades laborales y daños a las instalaciones, siendo corresponsables de nuestro bienestar.</p>
+                            <h2 class="text-2xl text-white font-semibold ">Nuestra Visión</h2>
+                            <p class="mt-2 text-white text-justify">Ser un socio estratégico entre nuestros clientes a través de la reducción del <br> 15 % anual de lesiones, enfermedades laborales y daños a las instalaciones, siendo corresponsables de nuestro bienestar.</p>
                            
                         </div>
                     </div>
@@ -53,7 +53,7 @@
                     <p class="mt-4 text-lg text-black leading-relaxed text-justify px-3 wow animated zoomIn">
                       En <span class="text-blue-900 font-bold">Seguridad Industrial Islander S.A. de C.V.</span> nuestra experiencia en el sector 
                       de Seguridad y Salud en el Trabajo, (SST) comprometida a ofrecer los más altos estándares mundiales de 
-                      consultoría, capacitación, estudios y tramites a las empresas
+                      consultoría, capacitación, estudios y tramites a las empresas.
                     </p>
                   </div>
                 </div>
@@ -73,7 +73,7 @@
                       </div>
                         <h6 class="text-xl font-semibold text-blue-900">Consultoría</h6>
                         <p class="mb-2 text-blue-900">
-                          En ISLANDER nos enfocamos en la consultoria PASST para una Empresa Segura.
+                          En ISLANDER nos enfocamos en la consultoría PASST para una Empresa Segura.
                         </p>  
                     </div>          
                 </div>
@@ -112,9 +112,9 @@
                     <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                       <i class="fas fa-clipboard text-2xl"></i>
                     </div>
-                    <h6 class="text-xl font-semibold text-blue-900">Auditorias</h6>
+                    <h6 class="text-xl font-semibold text-blue-900">Auditorías</h6>
                     <p class="mb-2 text-blue-900">
-                      Se realizan diversas auditorias con la finalidad de cumplir en SASST, CNSST
+                      Se realizan diversas auditorias con la finalidad de cumplir en SASST, CNSST.
                     </p>
                   </div>
                 </div>
@@ -128,7 +128,7 @@
                     </div>
                     <h6 class="text-xl font-semibold text-blue-900">Capacitación</h6>
                     <p class="mb-2 text-blue-900">
-                      En nuestro sistema de capacitaciones con forme marca la regulaciones normativas.
+                      En nuestro sistema de capacitaciones conforme marca la regulaciones normativas.
                     </p>
                   </div>
                 </div>

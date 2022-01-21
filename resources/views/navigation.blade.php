@@ -6,7 +6,7 @@
 
         <title>Seguridad Islander</title>
 
-		{!! app('seotools')->generate() !!}
+		{!! SEO::generate() !!}
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
@@ -262,7 +262,7 @@
 			  <ul class="list-unstyled">
 				<li>
 				  <span class="text-blue-900 font-semibold block pb-2 text-sm"><i class="fas fa-phone"></i> 821-105-0288 </span>
-				  <span class="text-blue-900 font-semibold block pb-2 text-sm"><i class="fas fa-mobile-alt"></i> 821-100-9115 </span>
+				  <span class="text-blue-900 font-semibold block pb-2 text-sm"><i class="fas fa-mobile-alt"></i> 821-117-77-41 </span>
 				</li>
 			  </ul>
 			</div>
@@ -271,7 +271,7 @@
 			  <ul class="list-unstyled">
 				<li>
 				  <u><a class="text-blue-700 hover:text-blue-900 font-semibold block pb-2 text-sm" href="mailto:j.isleno@islander.mx?Subject=contratación%20de%20servicios%20"><i class="fas fa-envelope mr-2"></i>j.isleno@islander.mx</a></u>
-				  <u><a class="text-blue-700 hover:text-blue-900 font-semibold block pb-2 text-sm" href="mailto:alejandra.lerma@islander.mx?Subject=contratación%20de%20servicios%20"><i class="fas fa-envelope mr-2"></i>alejandra.lerma@islander.mx</a></u>
+				  <u><a class="text-blue-700 hover:text-blue-900 font-semibold block pb-2 text-sm" href="mailto:ventas@islander.mx?Subject=contratación%20de%20servicios%20"><i class="fas fa-envelope mr-2"></i>ventas@islander.mx</a></u>
 				</li>
 			  </ul>
 			</div>
