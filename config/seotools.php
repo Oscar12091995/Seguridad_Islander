@@ -14,7 +14,7 @@ return [
             'description'  => 'En Islander somos una empresa...', // set false to total remove
             'separator'    => ' - ',
             'keywords'     => [],
-            'canonical'    => false, // Set to null or 'full' to use Url::full(), set to 'current' to use Url::current(), set false to total remove
+            'canonical'    => 'https://seguridadislander.com.mx', // Set to null or 'full' to use Url::full(), set to 'current' to use Url::current(), set false to total remove
             'robots'       => false, // Set to 'all', 'none' or any combination of index/noindex and follow/nofollow
         ],
         /*
@@ -59,7 +59,7 @@ return [
          */
         'defaults' => [
             'title'       => 'Seguridad Industrial Islander', // set false to total remove
-            'description' => 'For those who helped create the Genki Dama', // set false to total remove
+            'description' => 'En Islander somos una empresa...', // set false to total remove
             'url'         => 'https://seguridadislander.com.mx', // Set null for using Url::current(), set false to total remove
             'type'        => 'WebPage',
             'images'      => [],

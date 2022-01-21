@@ -23,7 +23,7 @@
     <div class="sm:content-center sticky md:w-2/12 px-2 border-r-2 mb-12">
         <ul id="tabs" class="">
           <li class="px-4 py-2 my-2 -mb-px font-semibold text-gray-800 border-blue-400 opacity-50"><a id="default-tab" href="#first">Diagnóstico de SST</a></li>
-          <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#second">{{-- <i class="fas fa-circle"></i> --}}Estudios de Riesgos</a></li>
+          <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#second">Estudios de Riesgos</a></li>
           <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#third">Programas de Seguridad</a></li>
           <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#fourth">Auditorías</a></li>
           <li class="px-4 py-2 my-2 font-semibold text-gray-800 opacity-50"><a href="#five">Capacitación</a></li>
