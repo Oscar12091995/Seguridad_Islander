@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="seguridad, industrial, islander">
 
         <title>Seguridad Industrial Islander</title>
 
@@ -242,7 +243,7 @@
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
 	  <div class="flex flex-wrap justify-center items-center">
 		<div class="w-full lg:w-4/12 px-4">
-		  <img src="{{ asset('images/LOGO.png')}} " alt="ISLANDER logo">
+		  <img src="{{ asset('images/LOGO.png')}} " alt="Seguridad Industrial Islander logo">
 		</div>
 		<div class="w-full lg:w-4/12 px-4 text-center">
 		
@@ -282,8 +283,7 @@
 	  <div class="flex flex-wrap items-center md:justify-between justify-center">
 		<div class="w-full md:w-4/12 px-4 mx-auto text-center">
 		  <div class="text-sm font-semibold py-1">
-			Copyright © <span id="get-current-year">2021</span><a href="/" class="hover:text-gray-800"> Seguridad Industrial
-			<a href="/" class="">ISLANDER</a>.
+			Copyright © <span id="get-current-year">2021</span><a href="/" class="hover:text-gray-800"> Seguridad Industrial Islander S.A de C.V</a>.
 		  </div>
 		</div>
 	  </div>

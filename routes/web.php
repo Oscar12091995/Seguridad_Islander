@@ -9,6 +9,7 @@ Route::get('/', function () {
     SEOTools::setDescription('En Islander somos una empresa especialista en seguridad...');
     SEOTools::opengraph()->setUrl('https://seguridadislander.com.mx/');
     SEOTools::setCanonical('https://seguridadislander.com.mx');
+    SEOTools::jsonLd()->addImage('https://seguridadislander.com.mx/images/LOGO.png ');
     SEOTools::opengraph()->addProperty('type', 'articles');
     return view('welcome'); })->name('inicio');
 Route::get('nosotros', function () { return view('nosotros'); })->name('nosotros');

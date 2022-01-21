@@ -39,7 +39,6 @@
               <div class="w-full md:w-12/12">
                 <div class="">
                   <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Diagnóstico del PASST – Empresa Segura</h1>
-                  <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                     <div class="mt-4 text-lg text-justify">
                       <div class="py-4">
                         <h2 class="text-2xl font-semibold text-gray-800 capitalize">NOM-030-STPS-2009, Servicios Preventivos de Seguridad y Salud en el Trabajo.</h2>
@@ -87,7 +86,6 @@
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
                 <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Estudios de Riesgos Normativos (STPS)</h3>
-                <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                     <div class="mt-4 text-lg text-justify">
                         <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Estudios de Riesgos</h1>
                         <hr class="my-4">
@@ -113,7 +111,6 @@
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
                 <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Programas de Seguridad y Salud en el Trabajo</h3>
-                <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                   <div class="mt-4 text-lg text-justify">
                     <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Programas</h1>
                     <hr class="my-4">
@@ -144,7 +141,6 @@
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
                 <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Auditorías Normativas de (STPS)</h3>
-                <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                   <div class="mt-4 text-lg text-justify">
                     <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Auditorias</h1>
                     <hr class="my-4">
@@ -164,7 +160,6 @@
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4 block">
               <div class="md:pr-12">
                    <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Capacitaciones</h3>
-                   <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                      <div class="mt-4 text-lg text-justify">
                         <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Cumplimiento Normativo de Seguridad y Salud en el 
                           Trabajo</h1>
@@ -234,7 +229,6 @@
             <div class="w-full md:w-12/12 flex">
               <div class="">
                    <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil y Respuesta a Emergencias</h1>
-                   <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                       <div class="mt-4 text-lg text-justify">
                         <h2 class="mb-2 text-xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil</h2>
                         <h3 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Brigadas de Emergencias</h3>
@@ -272,7 +266,6 @@
             <div class="w-full md:w-12/12 flex">
               <div class="md:pr-12">
                    <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h1>
-                   <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                       <div class="mt-4 text-lg text-justify" >                        
                         <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Gestión Ambiental</h2>
                         <hr class="my-4">
@@ -334,7 +327,6 @@
             <div class="w-full md:w-12/12 flex">
               <div class="md:pr-12">
                    <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Permisos Vigentes</h1>
-                   <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                       <div class="mt-4 text-lg text-justify" >                        
                         <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación</h2>
                         <hr class="my-4">

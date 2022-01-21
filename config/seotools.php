@@ -11,11 +11,11 @@ return [
         'defaults'       => [
             'title'        => "Seguridad Industrial Islander", // set false to total remove
             'titleBefore'  => false, // Put defaults.title before page title, like 'It's Over 9000! - Dashboard'
-            'description'  => 'En Islander somos una empresa...', // set false to total remove
+            'description'  => 'Empresa especializada en Seguridad Industrial', // set false to total remove
             'separator'    => ' - ',
-            'keywords'     => [],
+            'keywords'     => ['Seguridad, Industrial, Islander'],
             'canonical'    => 'https://seguridadislander.com.mx', // Set to null or 'full' to use Url::full(), set to 'current' to use Url::current(), set false to total remove
-            'robots'       => false, // Set to 'all', 'none' or any combination of index/noindex and follow/nofollow
+            'robots'       => 'index', // Set to 'all', 'none' or any combination of index/noindex and follow/nofollow
         ],
         /*
          * Webmaster tags are always added.
@@ -37,7 +37,7 @@ return [
          */
         'defaults' => [
             'title'       => 'Seguridad Industrial Islander', // set false to total remove
-            'description' => 'En Islander somos una empresa...', // set false to total remove
+            'description' => 'Empresa especializada en Seguridad Industrial', // set false to total remove
             'url'         => 'https://seguridadislander.com.mx', // Set null for using Url::current(), set false to total remove
             'type'        => false,
             'site_name'   => false,
@@ -59,7 +59,7 @@ return [
          */
         'defaults' => [
             'title'       => 'Seguridad Industrial Islander', // set false to total remove
-            'description' => 'En Islander somos una empresa...', // set false to total remove
+            'description' => 'Empresa especializada en Seguridad Industrial', // set false to total remove
             'url'         => 'https://seguridadislander.com.mx', // Set null for using Url::current(), set false to total remove
             'type'        => 'WebPage',
             'images'      => [],

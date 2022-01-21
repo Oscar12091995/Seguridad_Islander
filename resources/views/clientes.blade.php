@@ -21,20 +21,19 @@
 <section class="w-full mt-12">
     <div class="container flex flex-col items-center px-5 mx-auto  md:flex-row lg:px-28">
         <div class="flex flex-col items-start w-full pt-0 mb-16 text-left  lg:flex-grow md:w-1/2 xl:mr-20 md:pr-24 md:mb-0  wow animated zoomIn">
-            <h1 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font"> Compromiso </h1>
-            <span class="w-72 border-t-4 border-solid border-blue-700"></span>
+            <h1 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font"> Nuestro Compromiso </h1>
             <p class="mb-8 text-lg text-justify text-blueGray-600"> Para <span class="text-blue-900">Seguridad Industrial Islander S.A. de C.V.</span> nuestros clientes
             es nuestra mayor prioridad, es por ello que estamos comprometidos con ofrecer nuestros servicios con calidad, responsabilidad y profesionalismo.</p>
             </div>
             <div class="w-full lg:w-5/6 lg:max-w-lg md:w-1/2">{{-- pexels-sora-shimazaki-5673488 --}}
-            <img class="object-cover object-center rounded-lg wow animated fadeInLeft" alt="hero" src="{{asset('images/pexels-sora-shimazaki-5673488.jpg')}}">
+            <img class="object-center rounded-lg wow animated fadeInLeft" width="100%" height="100%"  alt="comprometidos con la seguridad" src="{{asset('images/pexels-sora-shimazaki-5673488.jpg')}}">
         </div>
     </div>
 </section>
 {{--Fin sección compromiso --}}
 
 {{-- Sección slide --}}
-<section class="mt-12 w-full">
+<section class="mt-12">
     <div class="slider w-full">
         <div class="slide-track text-center items-center justify-center h-64 w-full">
             {{-- <div class="slide"><img src="{{asset('images/industrial-1636390_1920.jpg')}}" alt=""></div> --}}

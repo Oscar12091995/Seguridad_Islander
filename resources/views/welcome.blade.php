@@ -7,7 +7,7 @@
                 <div class="bg-center bg-cover w-full h-screen flex items-center justify-center" style="background-image: url({{asset('images/helmet-1636348_1920.jpg')}});">
                     <div class="w-screen h-screen justify-center bg-black bg-opacity-50 transition duration-300 ease-in-out">
                         <div class="text-white w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center ">
-                          <img src="{{asset('images/LOGO.png')}}" class="wow animated fadeInLeft" alt="ISLANDER logo">
+                          <img src="{{asset('images/LOGO.png')}}" class="wow animated fadeInLeft" width="60%" height="60%" alt="Seguridad Industrial Islander logo">
                         </div>
                     </div>           
                 </div>
@@ -45,13 +45,13 @@
         <section class="bg-white z-0">
             <div class="items-center flex flex-wrap bg-white z-0">
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:pl-12 bg-white">
-                  <img alt="bomberos" class="h-full w-full object-cover rounded-lg shadow-lg wow animated fadeInLeft z-0" src="{{asset('images/fire-fighting-4495488_640.jpg')}}">
+                  <img alt="Seguridad Incendios" width="100%" height="100%" class="object-cover rounded-lg shadow-lg wow animated fadeInLeft z-0" src="{{asset('images/fire-fighting-4495488_640.jpg')}}">
                 </div>
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:px-4">
                   <div class="md:pr-12 text-center md:py-2">
                     <h1 class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">¿Qué Realizamos?</h1>
                     <p class="mt-4 text-lg text-black leading-relaxed text-justify px-3 wow animated zoomIn">
-                      En <span class="text-blue-900 font-bold">Seguridad Industrial Islander S.A. de C.V.</span> nuestra experiencia en el sector 
+                      En <span class="text-blue-900 font-bold">Seguridad Industrial Islander S.A. de C.V.</span> con nuestra experiencia en el sector 
                       de Seguridad y Salud en el Trabajo, (SST) comprometida a ofrecer los más altos estándares mundiales de 
                       consultoría, capacitación, estudios y tramites a las empresas.
                     </p>
@@ -73,7 +73,7 @@
                       </div>
                         <h3 class="text-xl font-semibold text-blue-900">Consultoría</h3>
                         <p class="mb-2 text-blue-900">
-                          En ISLANDER nos enfocamos en la consultoría PASST para una Empresa Segura.
+                          En Islander nos enfocamos en la consultoría PASST para una Empresa Segura.
                         </p>  
                     </div>          
                 </div>
@@ -86,7 +86,7 @@
                     </div>
                     <h3 class="text-xl font-semibold text-blue-900">Estudio de Riesgos.</h3>
                     <p class="mb-2 text-blue-900">
-                      En ISLANDER se realizan diversos estudios para garantizar la Seguridad Laboral.
+                      En Islander se realizan diversos estudios para garantizar la Seguridad Laboral.
                     </p>
                   </div>
                 </div>
@@ -128,7 +128,7 @@
                     </div>
                     <h3 class="text-xl font-semibold text-blue-900">Capacitación</h3>
                     <p class="mb-2 text-blue-900">
-                      En nuestro sistema de capacitaciones conforme marca la regulaciones normativas.
+                      En Islander nuestro sistema de capacitaciones conforme marca la regulaciones normativas.
                     </p>
                   </div>
                 </div>
@@ -142,7 +142,7 @@
                     </div>
                     <h3 class="text-xl font-semibold text-blue-900">Protección Civil</h3>
                     <p class="mb-2 text-blue-900">
-                      En ISLANDER se elabora el plan de contigencias, el visto bueno de protección civil. 
+                      En Islander se elabora el plan de contigencias, el visto bueno de protección civil. 
                     </p>
                   </div>
                 </div>
