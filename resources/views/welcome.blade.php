@@ -49,7 +49,7 @@
                 </div>
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:px-4">
                   <div class="md:pr-12 text-center md:py-2">
-                    <h3 class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">¿Qué Realizamos?</h3>
+                    <h1 class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">¿Qué Realizamos?</h1>
                     <p class="mt-4 text-lg text-black leading-relaxed text-justify px-3 wow animated zoomIn">
                       En <span class="text-blue-900 font-bold">Seguridad Industrial Islander S.A. de C.V.</span> nuestra experiencia en el sector 
                       de Seguridad y Salud en el Trabajo, (SST) comprometida a ofrecer los más altos estándares mundiales de 
@@ -71,7 +71,7 @@
                       <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                         <i class="fas fa-tasks text-2xl"></i>
                       </div>
-                        <h6 class="text-xl font-semibold text-blue-900">Consultoría</h6>
+                        <h3 class="text-xl font-semibold text-blue-900">Consultoría</h3>
                         <p class="mb-2 text-blue-900">
                           En ISLANDER nos enfocamos en la consultoría PASST para una Empresa Segura.
                         </p>  
@@ -84,7 +84,7 @@
                     <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                       <i class="fas fa-book-open text-2xl"></i>
                     </div>
-                    <h6 class="text-xl font-semibold text-blue-900">Estudio de Riesgos.</h6>
+                    <h3 class="text-xl font-semibold text-blue-900">Estudio de Riesgos.</h3>
                     <p class="mb-2 text-blue-900">
                       En ISLANDER se realizan diversos estudios para garantizar la Seguridad Laboral.
                     </p>
@@ -97,7 +97,7 @@
                     <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                       <i class="fas fa-industry text-2xl cursor-pointer"></i>
                     </div>
-                    <h6 class="text-xl font-semibold text-blue-900">Programas de Seguridad</h6>
+                    <h3 class="text-xl font-semibold text-blue-900">Programas de Seguridad</h3>
                     <p class="mb-2 text-blue-900">
                       Se desarrollan diversos programas normativos de seguridad y salud en el trabajo.
                     </p>
@@ -112,7 +112,7 @@
                     <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                       <i class="fas fa-clipboard text-2xl"></i>
                     </div>
-                    <h6 class="text-xl font-semibold text-blue-900">Auditorías</h6>
+                    <h3 class="text-xl font-semibold text-blue-900">Auditorías</h3>
                     <p class="mb-2 text-blue-900">
                       Se realizan diversas auditorias con la finalidad de cumplir en SASST, CNSST.
                     </p>
@@ -126,7 +126,7 @@
                     <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                       <i class="fas fa-chalkboard-teacher text-2xl"></i>
                     </div>
-                    <h6 class="text-xl font-semibold text-blue-900">Capacitación</h6>
+                    <h3 class="text-xl font-semibold text-blue-900">Capacitación</h3>
                     <p class="mb-2 text-blue-900">
                       En nuestro sistema de capacitaciones conforme marca la regulaciones normativas.
                     </p>
@@ -140,7 +140,7 @@
                     <div class="text-white text-center inline-flex items-center justify-center w-12 h-12 shadow-lg rounded-full bg-blue-900">
                       <i class="fas fa-first-aid text-2xl"></i>
                     </div>
-                    <h6 class="text-xl font-semibold text-blue-900">Protección Civil</h6>
+                    <h3 class="text-xl font-semibold text-blue-900">Protección Civil</h3>
                     <p class="mb-2 text-blue-900">
                       En ISLANDER se elabora el plan de contigencias, el visto bueno de protección civil. 
                     </p>
@@ -170,27 +170,27 @@
           <div class="container mx-auto grid justify-center grid-cols-2 text-center lg:grid-cols-3 lg:px-48">
             <div class="flex flex-col justify-start m-2 lg:m-6 wow animated rotateIn">
               <p class="text-4xl font-bold leading-none lg:text-6xl text-blue-900">15+</p>
-              <p class="text-sm sm:text-base text-blue-900">Clientes</p>
+              <h3 class="text-sm sm:text-base text-blue-900">Clientes</h3>
             </div>
             <div class="flex flex-col justify-start m-2 lg:m-6 wow animated rotateIn">
               <p class="text-4xl font-bold leading-none lg:text-6xl text-blue-900">8</p>
-              <p class="text-sm sm:text-base text-blue-900">Estudios</p>
+              <h3 class="text-sm sm:text-base text-blue-900">Estudios</h3>
             </div>
             <div class="flex flex-col justify-start m-2 lg:m-6 wow animated rotateIn">
               <p class="text-4xl font-bold leading-none lg:text-6xl text-blue-900 ">35+</p>
-              <p class="text-sm sm:text-base text-blue-900">Capacitaciones</p>
+              <h3 class="text-sm sm:text-base text-blue-900">Capacitaciones</h3>
             </div>
             <div class="flex flex-col justify-start m-2 lg:m-6 wow animated rotateIn">
               <p class="text-4xl font-bold leading-none lg:text-6xl text-blue-900">4</p>
-              <p class="text-sm sm:text-base text-blue-900">Auditorías</p>
+              <h3 class="text-sm sm:text-base text-blue-900">Auditorías</h3>
             </div>
             <div class="flex flex-col justify-start m-2 lg:m-6 wow animated rotateIn">
               <p class="text-4xl font-bold leading-none lg:text-6xl text-blue-900">15+</p>
-              <p class="text-sm sm:text-base text-blue-900">Años de experiencia</p>
+              <h3 class="text-sm sm:text-base text-blue-900">Años de experiencia</h3>
             </div>
             <div class="flex flex-col justify-start m-2 lg:m-6 wow animated rotateIn">
               <p class="text-4xl font-bold leading-none lg:text-6xl text-blue-900">10+</p>
-              <p class="text-sm sm:text-base text-blue-900">Programas</p>
+              <h3 class="text-sm sm:text-base text-blue-900">Programas</h3>
             </div><!---->
           </div>
         </section>

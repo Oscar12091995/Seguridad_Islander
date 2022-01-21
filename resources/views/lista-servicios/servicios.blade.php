@@ -8,8 +8,8 @@
         <div class="bg-center bg-cover w-full flex items-center overflow-hidden justify-center" style="background-image: url({{asset('images/pexels-pixabay-162625.jpg')}}); height: 80vh;">
             <div class="items-center justify-center w-screen h-screen flex flex-col bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
                 <div class="items-center justify-center md:w-1/2 w-full shadow-md p-5 h-auto rounded-lg blur-3 flex flex-col col-span-12">
-                    <h4 class=" w-96 border-t-4 border-solid border-blue-700"></h4>
-                    <h2 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Nuestros Servicios</h2>
+                    <span class=" w-96 border-t-4 border-solid border-blue-700"></span>
+                    <h1 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Nuestros Servicios</h1>
                 </div>
             </div>          
         </div>
@@ -38,11 +38,11 @@
           <div class="items-center flex flex-wrap">
               <div class="w-full md:w-12/12">
                 <div class="">
-                  <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Diagnóstico del PASST – Empresa Segura</h3>
-                  <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
+                  <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Diagnóstico del PASST – Empresa Segura</h1>
+                  <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                     <div class="mt-4 text-lg text-justify">
                       <div class="py-4">
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">NOM-030-STPS-2009, Servicios Preventivos de Seguridad y Salud en el Trabajo.</span>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">NOM-030-STPS-2009, Servicios Preventivos de Seguridad y Salud en el Trabajo.</h2>
                         <hr class="my-4">
                       </div>
                       <div>
@@ -60,7 +60,7 @@
                         </ul>
                       </div>
                       <hr class="my-4">
-                      <span class="text-xl font-bold capitalize mb-2"><i class="fas fa-minus"></i> Beneficios:</span>
+                      <h3 class="text-xl font-bold capitalize mb-2"><i class="fas fa-minus"></i> Beneficios:</h3>
                       <ul>
                         <div class="pl-12 my-4 text-justify">
                           <li><i class="far fa-check-circle text-green-500"></i> Reducción de Pagos por prima de riesgo ante el IMSS.</li>
@@ -89,7 +89,7 @@
                 <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Estudios de Riesgos Normativos (STPS)</h3>
                 <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                     <div class="mt-4 text-lg text-justify">
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">I. Estudios de Riesgos</span>
+                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Estudios de Riesgos</h1>
                         <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de prevención y protección contra incendios <span class="text-blue-900 font-semibold">(NOM-002-STPS-2010)</span>.</li>
@@ -115,7 +115,7 @@
                 <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Programas de Seguridad y Salud en el Trabajo</h3>
                 <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                   <div class="mt-4 text-lg text-justify">
-                    <span class="text-2xl font-semibold text-gray-800 capitalize">I. Programas</span>
+                    <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Programas</h1>
                     <hr class="my-4">
                     <ul class="pl-12">
                       <li><i class="far fa-check-circle text-green-500 text-justify"></i> Programa de prevención de ruido laboral – <span class="text-blue-900 font-semibold">(NOM-011-STPS-2014)</span>.</li>
@@ -146,7 +146,7 @@
                 <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Auditorías Normativas de (STPS)</h3>
                 <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                   <div class="mt-4 text-lg text-justify">
-                    <span class="text-2xl font-semibold text-gray-800 capitalize">I. Auditorias</span>
+                    <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Auditorias</h1>
                     <hr class="my-4">
                     <ul class="pl-12">
                       <li><i class="far fa-check-circle text-green-500 text-justify"></i> Auditoria del Sistema de Administración de Seguridad y Salud en Trabajo (SASST).</li>
@@ -166,8 +166,8 @@
                    <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Capacitaciones</h3>
                    <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
                      <div class="mt-4 text-lg text-justify">
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Cumplimiento Normativo de Seguridad y Salud en el 
-                          Trabajo</span>
+                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Cumplimiento Normativo de Seguridad y Salud en el 
+                          Trabajo</h1>
                           <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Uso y conservación de las instalaciones</li>
@@ -186,7 +186,7 @@
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Entre Otros</li>
                         </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">II. Competencias de Seguridad y Salud en el Trabajo</span>
+                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">II. Competencias de Seguridad y Salud en el Trabajo</h1>
                         <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Seguridad Eléctrica – Empleado Autorizado</li>
@@ -206,7 +206,7 @@
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Entre otros</li>
                         </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">III. Conciencia de Seguridad y Salud en el Trabajo</span>
+                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">III. Conciencia de Seguridad y Salud en el Trabajo</h1>
                         <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Manejo adecuado de residuos</li>
@@ -233,11 +233,11 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 flex">
               <div class="">
-                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil y Respuesta a Emergencias</h3>
-                   <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
+                   <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil y Respuesta a Emergencias</h1>
+                   <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                       <div class="mt-4 text-lg text-justify">
-                        <h3 class="mb-2 text-xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil</h3>
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Brigadas de Emergencias</span>
+                        <h2 class="mb-2 text-xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil</h2>
+                        <h3 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Brigadas de Emergencias</h3>
                         <hr class="my-4">
                           <ul class="pl-12">
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Diseño de simulacros</li>
@@ -249,67 +249,20 @@
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Brigada de Materiales Peligrosos</li>
                           </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">II.  Simulacros de Emergencias</span>
+                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">II.  Simulacros de Emergencias</h1>
                         <hr class="my-4">
                             <ul class="pl-12">
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Simulacros de Evacuación - Riesgos Ordinarios</li>
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Simulacros EPRE – Riesgos Altos</li>
                             </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">III. Planes de Contingencias</span>
+                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">III. Planes de Contingencias</h1>
                         <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Programa Interno de Protección Civil</li>
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Planes de Contingencias</li>
                           </ul>
                       </div>
-                      {{-- <div class="mt-4 text-lg text-justify" >
-                        <h3 class="mb-2 text-xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h3>
-                        <span class="font-bold text-2xl">I. Gestión Ambiental</span>
-                          <ul>
-                            <li>Sistema de Gestión Ambiental.</li>
-                            <li> Calculo de Indicadores: Agua, Energeticos, Residuos etc.</li>
-                            <li>Politica Ambiental</li>
-                          </ul>
-            
-                        <span class="font-bold text-2xl">II. Emergencias Ambientales</span>
-                            <ul>
-                              <li>Estudio de Grado de Riesgo de Incendios</li>
-                              <li>Plan de Atención a Emergencias</li>
-                              <li>Simulacros EPRE – Riesgos Altos</li>
-                              <li>Programa de Prevención de Accidentes (PPA)</li>
-                            </ul>
-            
-                        <span class="font-bold text-2xl">III. Energía.</span>
-                          <ul>
-                            <li> Identificación de Aspectos Ambientales Significativos (Energeticos).</li>
-                            <li>Ahorro y uso eficiente de la Energía.</li>
-                            <li> Identificación de áreas y equipos de mayor consumo energético.</li>
-                          </ul>
-
-                          <span class="font-bold text-2xl">IV. Residuos Peligrosos & RPBI.</span>
-                          <ul>
-                            <li> Identificación de aspectos ambientales significativos de residuos peligrosos & RPBI.</li>
-                            <li>Registro como generador de residuos peligrosos & RPBI.</li>
-                            <li> Reportes semestrales de generador de residuos peligrosos & RPBI.</li>
-                          </ul>
-
-                          <span class="font-bold text-2xl">V. Residuos ME & SU.</span>
-                          <ul>
-                            <li> Identificación de aspectos ambientales significativos de residuos de manejo especial (RME)& 
-                              solido urbado (SU).</li>
-                            <li>Registro como generador de residuos de manejo especial (RME)& solido urbado (SU).</li>
-                            <li> Reportes semestrales de generador de residuos de manejo especial (RME) & solido urbado (SU)</li>
-                          </ul>
-
-                          <span class="font-bold text-2xl">VI. Aire.</span>
-                          <ul>
-                            <li> Cedula de Operación Anual (COA Estatal & Federal).</li>
-                            <li>Plan de Contingencia Ambiental (PCA).</li>
-                            <li> Estudio de Ruido Perimetral.</li>
-                            <li>Entre otros...</li>
-                          </ul>
-                      </div> --}}
               </div>
             </div>
           </div>
@@ -318,10 +271,10 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 flex">
               <div class="md:pr-12">
-                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h3>
-                   <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
+                   <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Medio Ambiente</h1>
+                   <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                       <div class="mt-4 text-lg text-justify" >                        
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">I. Gestión Ambiental</span>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Gestión Ambiental</h2>
                         <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Sistema de Gestión Ambiental.</li>
@@ -329,7 +282,7 @@
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Política Ambiental</li>
                           </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">II. Emergencias Ambientales</span>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">II. Emergencias Ambientales</h2>
                         <hr class="my-4">
                             <ul class="pl-12">
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de Grado de Riesgo de Incendios</li>
@@ -338,7 +291,7 @@
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Programa de Prevención de Accidentes (PPA)</li>
                             </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">III. Energía.</span>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">III. Energía.</h2>
                         <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de Aspectos Ambientales Significativos (Energéticos).</li>
@@ -346,7 +299,7 @@
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de áreas y equipos de mayor consumo energético.</li>
                           </ul>
 
-                          <span class="text-2xl font-semibold text-gray-800 capitalize">IV. Residuos Peligrosos & RPBI.</span>
+                          <h2 class="text-2xl font-semibold text-gray-800 capitalize">IV. Residuos Peligrosos & RPBI.</h2>
                           <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de aspectos ambientales significativos de residuos peligrosos & RPBI.</li>
@@ -354,7 +307,7 @@
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Reportes semestrales de generador de residuos peligrosos & RPBI.</li>
                           </ul>
 
-                          <span class="text-2xl font-semibold text-gray-800 capitalize">V. Residuos ME & SU.</span>
+                          <h2 class="text-2xl font-semibold text-gray-800 capitalize">V. Residuos ME & SU.</h2>
                           <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Identificación de aspectos ambientales significativos de residuos de manejo especial (RME)& 
@@ -363,7 +316,7 @@
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Reportes semestrales de generador de residuos de manejo especial (RME) & solido urbado (SU)</li>
                           </ul>
 
-                          <span class="text-2xl font-semibold text-gray-800 capitalize">VI. Aire.</span>
+                          <h2 class="text-2xl font-semibold text-gray-800 capitalize">VI. Aire.</h2>
                           <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Cedula de Operación Anual (COA Estatal & Federal).</li>
@@ -380,10 +333,10 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 flex">
               <div class="md:pr-12">
-                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Permisos Vigentes</h3>
-                   <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
+                   <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Permisos Vigentes</h1>
+                   <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
                       <div class="mt-4 text-lg text-justify" >                        
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación</span>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación</h2>
                         <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> <a href="{{asset('files/Registro_STPS_Pag1.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Registro STPS Pág. 1 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
@@ -391,7 +344,7 @@
                             <li><i class="far fa-check-circle text-green-500 text-justify mb-4"></i><a href="{{asset('files/Registro_STPS_Pag3.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Registro STPS Pág. 3 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
                           </ul>
             
-                        <span class="text-2xl font-semibold text-gray-800 capitalize">II. Protección Civil</span>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">II. Protección Civil</h2>
                         <hr class="my-4">
                             <ul class="pl-12">
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/RegDPCE-APF-035-2020.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Reg. DPCE-APF-035-2020 <i class="text-gray-400 fas fa-file-alt"></i></a></li>

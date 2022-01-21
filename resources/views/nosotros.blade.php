@@ -28,8 +28,8 @@
         </div>
         <div class="w-full md:w-5/12 ml-auto mr-auto px-4 mt-10">
           <div class="md:pr-12 wow animated zoomIn">
-            <h3 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font">Acerca de Nosotros</h3>
-            <h4 class="w-11/12 border-t-4 border-solid border-blue-700"></h4>
+            <h1 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font">Acerca de Nosotros</h1>
+            <span class="w-11/12 border-t-4 border-solid border-blue-700"></span>
             <p class="mt-4 text-lg text-justify">
               <span class="text-blue-900">ISLANDER</span> es empresa que nace por iniciativa de especialistas con más experiencia en el sector 
               de Seguridad y Salud en el Trabajo, (SST) comprometida a ofrecer los más altos estándares mundiales de 
@@ -44,9 +44,9 @@
   {{-- Sección banner--}}      
   <section class="bg-blue-900 sm:h-48 md:h-24 my-12 w-full">
       <div class="py-6 mx-10">
-        <h3 class="text-center text-2xl text-white font-bold  animated fadeInLeft infinite">
+        <h2 class="text-center text-2xl text-white font-bold  animated fadeInLeft infinite">
           En el trabajo identificamos, evaluamos y controlamos los riesgos oportunamente..
-        </h3>
+        </h2>
       </div>
   </section>
   {{-- Fin sección baner --}}
@@ -56,7 +56,7 @@
         <div class="container flex flex-col items-center px-5 mx-auto  md:flex-row lg:px-28">
             <div class="flex flex-col items-start w-full pt-0 mb-16 text-left  lg:flex-grow md:w-1/2 xl:mr-20 md:pr-24 md:mb-0  wow animated zoomIn">
               <h1 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font "> Politica </h1>
-              <h4 class="w-48 border-t-4 border-solid border-blue-700"></h4>
+              <span class="w-48 border-t-4 border-solid border-blue-700"></span>
               <p class="mb-8 text-lg text-justify text-blueGray-600"> Las operaciones en <span class="text-blue-900">Seguridad Industrial Islander S.A. de C.V.</span>, se llevan a cabo 
                 en un ambiente de trabajo seguro y con apego al cumplimiento de 
                 regulaciones gubernamentales. </p>
@@ -80,8 +80,8 @@
     <section class="px-48 my-10 sm:px-12">
         <div class="hidden lg:block sm:px-12">
             <div class="items-center text-center justify-center w-full flex flex-col col-span-12">
-                <h3 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Nuestros Valores</h3>
-                <h4 class="w-96 border-t-4 border-solid border-blue-700"></h4>
+                <h1 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Nuestros Valores</h1>
+                <span class="w-96 border-t-4 border-solid border-blue-700"></span>
             </div>
             <ul class="flex my-12 space-x-12 justify-center">
               <li><span class="text-2xl font-semibold text-gray-600 wow animated fadeIn">Confianza</span></li>
@@ -98,8 +98,8 @@
     {{-- Sección cultura --}}
     <section class="my-12 hidden lg:block">
         <div class="items-center text-center justify-center w-full flex flex-col sm:col-span-12">
-            <h3 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Proceso Cultural</h3>
-            <h4 class="w-96 border-t-4 border-solid border-blue-700"></h4>
+            <h1 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Proceso Cultural</h1>
+            <span class="w-96 border-t-4 border-solid border-blue-700"></span>
         </div>
         <div class="w-full py-6 px-36">
             <div class="flex">
@@ -211,7 +211,7 @@
           </ul>
         </div>
         <div class="items-center text-center justify-center w-full flex flex-col sm:col-span-12">
-          <h3 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Nivel Cultural</h3>
+          <h1 class="mb-2 text-2xl font-black tracking-tighter text-blue-900  md:text-5xl title-font wow animated zoomIn">Nivel Cultural</h1>
           
       </div>
     </section>

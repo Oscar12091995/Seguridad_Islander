@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Seguridad Islander</title>
+        <title>Seguridad Industrial Islander</title>
 
 		{!! SEO::generate() !!}
         <!-- Fonts -->

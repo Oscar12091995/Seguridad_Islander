@@ -7,7 +7,7 @@
         <div class="bg-center bg-cover w-full flex items-center overflow-hidden justify-center" style="background-image: url({{asset('images/pexels-porapak-apichodilok-346734.jpg')}}); height: 80vh;">
             <div class="items-center justify-center w-screen h-screen flex flex-col bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
                 <div class="items-center justify-center md:w-1/2 w-full shadow-md p-5 h-auto rounded-lg blur-3 flex flex-col col-span-12">
-                    <h4 class=" w-96 border-t-4 border-solid border-blue-700"></h4>
+                    <span class=" w-96 border-t-4 border-solid border-blue-700"></span>
                     <h2 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Contáctanos!</h2>
                 </div>
             </div>          
@@ -24,7 +24,7 @@
             <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
                     <div class="flex flex-col">
                         <h1 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font block wow animated zoomIn ">Envíanos tu mensaje!</h1>
-                        <h4 class="w-10/12 border-t-4 border-solid border-blue-700"></h4>
+                        <span class="w-10/12 border-t-4 border-solid border-blue-700"></span>
                     </div>      
 
                     {{-- notificicacion --}}

@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 use Artesaos\SEOTools\Facades\SEOTools;
 
 Route::get('/', function () { 
-    SEOTools::setTitle('Seguridad Islander');
+    SEOTools::setTitle('Seguridad Industrial Islander');
     SEOTools::setDescription('En Islander somos una empresa especialista en seguridad...');
     SEOTools::opengraph()->setUrl('https://seguridadislander.com.mx/');
     SEOTools::setCanonical('https://seguridadislander.com.mx');
