@@ -45,7 +45,7 @@
         <section class="bg-white z-0">
             <div class="items-center flex flex-wrap bg-white z-0">
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:pl-12 bg-white">
-                  <img alt="Seguridad Incendios" width="100%" height="100%" class="object-cover rounded-lg shadow-lg wow animated fadeInLeft z-0" src="{{asset('images/fire-fighting-4495488_640.jpg')}}">
+                  <img alt="Seguridad Incendios" width="100%" height="100%" class="object-cover rounded-lg shadow-lg z-0" src="{{asset('images/fire-fighting-4495488_640.jpg')}}">
                 </div>
                 <div class="w-full md:w-5/12 ml-auto mr-auto md:px-4">
                   <div class="md:pr-12 text-center md:py-2">

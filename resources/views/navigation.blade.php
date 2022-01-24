@@ -10,9 +10,9 @@
      
 		<link rel="shortcut icon" type="image/png" href="{{ asset('images/casco.png') }}">
 
-        <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+        <link href="{{ asset('/css/build.css') }}" rel="stylesheet">
 		<link href="{{ asset('/css/slide.css') }}" rel="stylesheet">
-
+		<link href="{{ asset('/css/css/all.min.css') }}" rel="stylesheet">
 		<link href="{{ asset('/css/animate.css') }}" rel="stylesheet"> 
 
 		
@@ -149,7 +149,7 @@
 	  <h4 class="w-12/12 my-6 border-t-2 border-solid border-blue-700"></h4>
 	  <div class="flex flex-wrap justify-center items-center">
 		<div class="w-full lg:w-4/12 px-4">
-		  <img src="{{ asset('images/LOGO.png')}} " alt="Seguridad Industrial Islander logo">
+		  <img src="{{ asset('images/LOGO.png')}} " width="100%" height="100%" alt="Seguridad Industrial Islander logo">
 		</div>
 		<div class="w-full lg:w-4/12 px-4 text-center">
 		
