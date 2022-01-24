@@ -4,14 +4,7 @@ use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Route;
 use Artesaos\SEOTools\Facades\SEOTools;
 
-Route::get('/', function () { 
-    SEOTools::setTitle('Seguridad Industrial Islander');
-    SEOTools::setDescription('En Islander somos una empresa especialista en seguridad...');
-    SEOTools::opengraph()->setUrl('https://seguridadislander.com.mx/');
-    SEOTools::setCanonical('https://seguridadislander.com.mx');
-    SEOTools::jsonLd()->addImage('https://seguridadislander.com.mx/images/LOGO.png ');
-    SEOTools::opengraph()->addProperty('type', 'articles');
-    return view('welcome'); })->name('inicio');
+Route::get('/', function () { return view('welcome'); })->name('inicio');
 Route::get('nosotros', function () { return view('nosotros'); })->name('nosotros');
 Route::get('clientes', function () { return view('clientes'); })->name('clientes');
 Route::get('contacto', function () { return view('contacto'); })->name('contacto');
