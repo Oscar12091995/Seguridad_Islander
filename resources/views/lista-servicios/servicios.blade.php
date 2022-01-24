@@ -9,7 +9,7 @@
             <div class="items-center justify-center w-screen h-screen flex flex-col bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
                 <div class="items-center justify-center md:w-1/2 w-full shadow-md p-5 h-auto rounded-lg blur-3 flex flex-col col-span-12">
                     <span class=" w-96 border-t-4 border-solid border-blue-700"></span>
-                    <h1 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Nuestros Servicios</h1>
+                    <h2 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Nuestros Servicios</h2>
                 </div>
             </div>          
         </div>
@@ -85,9 +85,9 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
-                <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Estudios de Riesgos Normativos (STPS)</h3>
+                <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Estudios de Riesgos Normativos (STPS)</h1>
                     <div class="mt-4 text-lg text-justify">
-                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Estudios de Riesgos</h1>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Estudios de Riesgos</h2>
                         <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Estudio de riesgo de prevención y protección contra incendios <span class="text-blue-900 font-semibold">(NOM-002-STPS-2010)</span>.</li>
@@ -110,9 +110,9 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
-                <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Programas de Seguridad y Salud en el Trabajo</h3>
+                <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Programas de Seguridad y Salud en el Trabajo</h1>
                   <div class="mt-4 text-lg text-justify">
-                    <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Programas</h1>
+                    <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Programas</h2>
                     <hr class="my-4">
                     <ul class="pl-12">
                       <li><i class="far fa-check-circle text-green-500 text-justify"></i> Programa de prevención de ruido laboral – <span class="text-blue-900 font-semibold">(NOM-011-STPS-2014)</span>.</li>
@@ -140,9 +140,9 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
-                <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Auditorías Normativas de (STPS)</h3>
+                <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Auditorías Normativas de (STPS)</h1>
                   <div class="mt-4 text-lg text-justify">
-                    <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Auditorias</h1>
+                    <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Auditorias</h2>
                     <hr class="my-4">
                     <ul class="pl-12">
                       <li><i class="far fa-check-circle text-green-500 text-justify"></i> Auditoria del Sistema de Administración de Seguridad y Salud en Trabajo (SASST).</li>
@@ -159,10 +159,10 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4 block">
               <div class="md:pr-12">
-                   <h3 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Capacitaciones</h3>
+                   <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Capacitaciones</h1>
                      <div class="mt-4 text-lg text-justify">
-                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Cumplimiento Normativo de Seguridad y Salud en el 
-                          Trabajo</h1>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Cumplimiento Normativo de Seguridad y Salud en el 
+                          Trabajo</h2>
                           <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Uso y conservación de las instalaciones</li>
@@ -181,7 +181,7 @@
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Entre Otros</li>
                         </ul>
             
-                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">II. Competencias de Seguridad y Salud en el Trabajo</h1>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">II. Competencias de Seguridad y Salud en el Trabajo</h2>
                         <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Seguridad Eléctrica – Empleado Autorizado</li>
@@ -201,7 +201,7 @@
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Entre otros</li>
                         </ul>
             
-                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">III. Conciencia de Seguridad y Salud en el Trabajo</h1>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">III. Conciencia de Seguridad y Salud en el Trabajo</h2>
                         <hr class="my-4">
                         <ul class="pl-12">
                           <li><i class="far fa-check-circle text-green-500 text-justify"></i> Manejo adecuado de residuos</li>
@@ -230,8 +230,8 @@
               <div class="">
                    <h1 class="mb-2 text-3xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil y Respuesta a Emergencias</h1>
                       <div class="mt-4 text-lg text-justify">
-                        <h2 class="mb-2 text-xl font-black tracking-tighter text-blue-900  md:text-5xl title-font animated zoomIn cursor-pointer">Protección Civil</h2>
-                        <h3 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Brigadas de Emergencias</h3>
+                        
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">I. Capacitación de Brigadas de Emergencias</h2>
                         <hr class="my-4">
                           <ul class="pl-12">
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Diseño de simulacros</li>
@@ -243,14 +243,14 @@
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Brigada de Materiales Peligrosos</li>
                           </ul>
             
-                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">II.  Simulacros de Emergencias</h1>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">II.  Simulacros de Emergencias</h2>
                         <hr class="my-4">
                             <ul class="pl-12">
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Simulacros de Evacuación - Riesgos Ordinarios</li>
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i> Simulacros EPRE – Riesgos Altos</li>
                             </ul>
             
-                        <h1 class="text-2xl font-semibold text-gray-800 capitalize">III. Planes de Contingencias</h1>
+                        <h2 class="text-2xl font-semibold text-gray-800 capitalize">III. Planes de Contingencias</h2>
                         <hr class="my-4">
                           <ul class="pl-12">
                             <li><i class="far fa-check-circle text-green-500 text-justify"></i> Programa Interno de Protección Civil</li>

@@ -8,7 +8,7 @@
             <div class="items-center justify-center w-screen h-screen flex flex-col bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
                 <div class="items-center justify-center md:w-1/2 w-full shadow-md p-5 h-auto rounded-lg blur-3 flex flex-col col-span-12">
                     <span class=" w-96 border-t-4 border-solid border-blue-700"></span>
-                    <h2 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Contáctanos!</h2>
+                    <h1 class="text-white text-5xl font-extrablod text-center wow animated fadeInLeft">Contáctanos!</h1>
                 </div>
             </div>          
         </div>
@@ -23,7 +23,7 @@
         <div class="container mx-auto my-4 px-4 lg:px-20">
             <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
                     <div class="flex flex-col">
-                        <h1 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font block wow animated zoomIn ">Envíanos tu mensaje!</h1>
+                        <h2 class="mb-2 text-4xl font-black tracking-tighter text-blue-900  md:text-5xl title-font block wow animated zoomIn ">Envíanos tu mensaje!</h2>
                     </div>      
 
                     {{-- notificicacion --}}
@@ -65,7 +65,7 @@
     
                 <div class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-blue-900 rounded-2xl wow animated fadeInUp">
                     <div class="flex flex-col text-white">
-                        <h1 class="font-bold uppercase text-4xl my-4">Nuestras oficinas</h1>
+                        <h2 class="font-bold uppercase text-4xl my-4">Nuestras oficinas</h2>
                         <p class="text-gray-300 text-justify">"En Seguridad Industrial Islander S.A de C.V <br> Tenemos conciencia y aceptamos que cualquier lesión, enfermedad e impacto ambiental 
                             negativo a las instalaciones se puede prevenir".
                         </p>
