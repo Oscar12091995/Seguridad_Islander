@@ -4,7 +4,7 @@
 	
 	.slider {
     	background: white;
-    	height: 250px;
+    	height: screen;
     	margin: auto;
     	overflow: hidden;
     	position: relative;
@@ -16,7 +16,7 @@
     	content: "";
     	height: 100%;
     	position: absolute;
-    	width: 100px;
+    	width: 20px;
     	z-index: 2;
 	}
 
@@ -35,7 +35,7 @@
 	.slider .slide-track {
     	animation: scroll 30s linear infinite;
     	display: flex;
-    	width: calc(250px * 18);
+    	width: calc(200px * 18);
 
 	}
 
@@ -44,8 +44,8 @@
 	}
 
 	.slider .slide {
-    	height: 250px;
-    	width: 250px;
+    	height: 200px;
+    	width: 200px;
 	}
 
 	@keyframes scroll {
@@ -53,10 +53,11 @@
         	transform: translateX(0);
     	}
     	100% {
-        	transform: translateX(calc(-250px * 9));
+        	transform: translateX(calc(-400px * 9));
     	}
 	}
 
+	
 	nav li.activa{
 	
 	}

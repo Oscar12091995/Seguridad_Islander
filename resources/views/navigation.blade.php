@@ -14,7 +14,7 @@
 		<link href="{{ asset('/css/slide.css') }}" rel="stylesheet">
 		<link href="{{ asset('/css/css/all.min.css') }}" rel="stylesheet">
 		<link href="{{ asset('/css/animate.css') }}" rel="stylesheet"> 
-
+		
 		
 
   </head>
@@ -127,7 +127,7 @@
 			<div x-show="dropdownOpen" @click="dropdownOpen = false" class="fixed inset-0 h-full w-full z-10"></div>
 		
 			<div x-show="dropdownOpen" class="bottom-0 mb-12  absolute right-0 rounded-md overflow-hidden z-20 hover:-translate-y-3 transform transition duration-500">
-			  <a class="float-right block text-center mb-2 mt-0 items-center justify-center w-12 h-12 rounded-full bg-green-500 hover:border-green-600 text-white hover:text-5xl"  data-bs-toggle="tooltip" data-bs-placement="left" title="Whatsapp" target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=528211177741&text=Hola!%20Quiero%20contratar%20sus%20servicios!" ><i class="fab fa-whatsapp text-4xl cursor-pointer"></i></a>	  
+			  <a class="float-right block text-center mb-2 mt-0 items-center justify-center w-12 h-12 rounded-full bg-green-500 hover:border-green-600 text-white hover:text-5xl"  data-bs-toggle="tooltip" data-bs-placement="left" title="Whatsapp" target="_blank" rel="noopener" href="https://wa.me/send?phone=528211177741&text=Hola!%20Quiero%20contratar%20sus%20servicios!" ><i class="fab fa-whatsapp text-4xl cursor-pointer"></i></a>	  
 			</div>
 		  </div>
 	</div>
