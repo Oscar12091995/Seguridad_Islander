@@ -126,14 +126,14 @@
 		
 			<div x-show="dropdownOpen" @click="dropdownOpen = false" class="fixed inset-0 h-full w-full z-10"></div>
 		
-			<div x-show="dropdownOpen" class="bottom-0 mb-12  absolute right-0 rounded-md overflow-hidden z-20 hover:-translate-y-3 transform transition duration-500">
-			  <a class="float-right block text-center mb-2 mt-0 items-center justify-center w-12 h-12 rounded-full bg-green-500 hover:border-green-600 text-white hover:text-5xl"  data-bs-toggle="tooltip" data-bs-placement="left" title="Whatsapp" target="_blank" rel="noopener" href="https://wa.me/send?phone=528211177741&text=Hola!%20Quiero%20contratar%20sus%20servicios!" ><i class="fab fa-whatsapp text-4xl cursor-pointer"></i></a>	  
+			<div x-show="dropdownOpen" class="bottom-0 mb-12  absolute right-0 rounded-md overflow-hidden z-20 duration-500 transform hover:-translate-y-3">{{-- bg-white duration-500    w-12 h-12 border-2 rounded-full border-green-600 transform hover:-translate-y-3  text-2xl text-green-500 hover:bg-green-600 hover:text-white --}}
+			  <a class="float-right block text-center mb-2 mt-0 items-center justify-center w-12 h-12 rounded-full bg-green-500 text-white text-4xl"  data-bs-toggle="tooltip" data-bs-placement="left" title="Whatsapp" target="_blank" rel="noopener" href="https://wa.me/send?phone=528211177741&text=Hola!%20Quiero%20contratar%20sus%20servicios!" ><i class="fab fa-whatsapp cursor-pointer"></i></a>	  
 			</div>
 		  </div>
 	</div>
 
-	<div class="md:hidden sm:block w-full bottom-4 right-4 items-center fixed z-50">
-		<a class="sm:hidden float-right block text-center mb-2 mt-1 items-center justify-center w-10 h-10 rounded-full bg-blue-900 text-white hover:text-5xl" href="tel:+528211177741"><i class="text-2xl fas fa-phone-alt mt-1"></i></a>
+	<div class="md:hidden sm:block w-full bottom-4 right-4 items-center overflow-hidden fixed z-50 duration-500 transform hover:-translate-y-3">
+		<a class="sm:hidden float-right block items-center text-center justify-center w-10 h-10 rounded-full border bg-blue-900 text-white text-3xl" href="tel:+528211177741"><i class="fas fa-phone-alt"></i></a>
 	</div>
 
 @yield('nosotros')
