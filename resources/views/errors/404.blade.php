@@ -1,11 +1,11 @@
-<link href="/css/app.css" rel="stylesheet">
+<link href="/css/build.css" rel="stylesheet">
 
 <div class="min-w-screen min-h-screen bg-blue-100 flex items-center p-5 lg:p-20 overflow-hidden relative">
     <div class="flex-1 min-h-full min-w-full rounded-3xl bg-white shadow-xl p-10 lg:p-20 text-gray-800 relative md:flex items-center text-center md:text-left">
         <div class="w-full md:w-1/2">
             <div class="mb-10 lg:mb-20">
                 <div class="w-full lg:w-6/12 px-4">
-                    <img src="{{asset('images/LOGO ISLANDER 2021.PNG')}}" alt="">
+                    <img src="{{asset('images/LOGO.PNG')}}" alt="">
                 </div>
             </div>
             <div class="mb-10 md:mb-20 text-gray-600 font-light">

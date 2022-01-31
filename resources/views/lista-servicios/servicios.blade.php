@@ -34,7 +34,7 @@
       </div>
     <div class="md:w-10/12" style="overflow: -moz-scrollbars-vertical; overflow-y: scroll;height:550px;">
       <div id="tab-contents">
-        <div id="first" class="p-4">
+        <div id="first" name="first" class="p-4">
           <div class="items-center flex flex-wrap">
               <div class="w-full md:w-12/12">
                 <div class="">
@@ -81,7 +81,7 @@
             </div>
           </div>
         </div>
-        <div id="second" class="hidden p-4">
+        <div id="second" name="estudios" class="hidden p-4">
           <div class="items-center flex flex-wrap">
             <div class="w-full md:w-12/12 ml-auto mr-auto px-4">
               <div class="md:pr-12">
