@@ -169,7 +169,7 @@
 			  <ul class="list-unstyled">
 				<li>
 				  <span class="text-blue-900 font-semibold block pb-2 text-sm"><i class="fas fa-phone"></i> 821-105-0288 </span>
-				  <span class="text-blue-900 font-semibold block pb-2 text-sm"><i class="fas fa-mobile-alt"></i> 821-117-77-41 </span>
+				  <span class="text-blue-900 font-semibold block pb-2 text-sm"><i class="fas fa-mobile-alt"></i> 821-100-91-15 </span>
 				</li>
 			  </ul>
 			</div>
