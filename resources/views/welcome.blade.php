@@ -18,7 +18,7 @@
         <section class="bg-white mb-12">
             <div class="md:flex bg-blue-900">
                 <div class="w-full h-96 overflow-hidden bg-cover bg-center sm:w-1/2" style="background-image: url({{asset('images/welder-gae79187c5_1920.jpg')}});">
-                    <div class="bg-opacity-50 flex items-center text-center h-full bg-blue-900 wow animated slideInLeft">{{-- welder-gae79187c5_1920 --}}
+                    <div class="bg-opacity-50 flex items-center text-center h-full bg-blue-900 wow animated slideInLeft">
                         <div class="md:mx-auto max-w-xl px-3">
                             <i class="text-5xl text-white font-semibold fas fa-university"></i>
                             <h1 class="text-2xl text-white font-semibold ">Nuestra Visión</h1>

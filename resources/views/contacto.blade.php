@@ -89,7 +89,7 @@
                             <div class="flex flex-col text-gray-300">
                                 <h2 class="text-2xl">Llamanos!</h2>
                                 <p class="text-sm">En Islander estamos para atenderte:</p>
-                                <p>Tel: 821-117-77-41</p>
+                                <p>Tel: 821-100-91-15</p>
                                 <p>Tel: 821-105-02-88</p>
                             </div>
                         </div>

@@ -342,6 +342,12 @@
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/RegDPCE-APF-035-2020.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Reg. DPCE-APF-035-2020 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
                               <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/RegDPCE-IPF-262-2020.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Reg. DPCE-IPF-262-2020 <i class="text-gray-400 fas fa-file-alt"></i></a></li>
                             </ul>
+                            <h2 class="text-2xl font-semibold text-gray-800 capitalize">III. Permiso REPSE</h2>
+                            <hr class="my-4">
+                                <ul class="pl-12">
+                                  <li><i class="far fa-check-circle text-green-500 text-justify"></i><a href="{{asset('files/Registro _AR11572_2021.pdf')}}" data-bs-toggle="tooltip" title="Clic para ver el documento!" target="_blank"> Reg. AR11572-2021<i class="text-gray-400 fas fa-file-alt"></i></a></li>
+                                  
+                                </ul>
                       </div>
               </div>
             </div>
