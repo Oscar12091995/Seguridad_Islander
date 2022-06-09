@@ -4,10 +4,10 @@
     
         {{-- Sección Portada --}}
         <section>
-                <div class="bg-center bg-cover w-full h-screen flex items-center justify-center" style="background-image: url({{asset('images/helmet-1636348_1920.jpg')}});">
+                <div class="bg-center bg-cover md:w-full md:h-screen flex items-center justify-center" style="background-image: url({{asset('images/helmet-1636348_1920.jpg')}});">
                     <div class="w-screen h-screen justify-center bg-black bg-opacity-50 transition duration-300 ease-in-out">
                         <div class="text-white w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center ">
-                          <img src="{{asset('images/LOGO.png')}}" class="wow animated fadeInLeft" width="60%" height="60%" alt="Seguridad Industrial Islander logo">
+                          <img src="{{asset('images/LOGO.png')}}" class="wow animated fadeInLeft" alt="Seguridad Industrial Islander logo">
                         </div>
                     </div>           
                 </div>

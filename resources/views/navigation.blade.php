@@ -9,7 +9,7 @@
 		{!! SEO::generate() !!}
      
 		<link rel="shortcut icon" type="image/png" href="{{ asset('images/casco.png') }}">
-
+		<link rel="stylesheet" href="{{ mix('css/app.css') }}">
         <link href="{{ asset('/css/build.css') }}" rel="stylesheet">
 		<link href="{{ asset('/css/slide.css') }}" rel="stylesheet">
 		<link href="{{ asset('/css/css/all.min.css') }}" rel="stylesheet">
@@ -119,7 +119,7 @@
 	</div>
 
 	<div class="hidden lg:block w-full bottom-4 right-4 items-center fixed z-50">
-		<div @click.away="dropdownOpen = false" x-data="{ dropdownOpen: true }" class="float-right">
+		<div @click.away="dropdownOpen = false" x-data="{ dropdownOpen: false }" class="float-right">
 			<button @click="dropdownOpen = !dropdownOpen" class="block text-white rounded-full w-12 h-12  bg-red-600 p-2 hover:bg-red-300 focus:outline-none focus:bg-red-300 transform rotate-6 hover:scale-125 transition duration-700 hover:rotate-90 hover:shadow-xl">
 			 <i class="fas fa-angle-left text-3xl"></i>
 			</button>
@@ -142,6 +142,39 @@
 @yield('contacto')
 @yield('servicios')
 @yield('consultoria')
+
+{{-- <div class="max-w-screen-lg bg-blue-900 shadow-2xl rounded-lg mx-auto text-center py-12 mt-4">
+	<h2 class="text-3xl leading-9 font-bold tracking-tight text-white sm:text-4xl sm:leading-10">
+		Start studying with us
+	</h2>
+	<div class="mt-8 flex justify-center">
+		<div class="inline-flex rounded-md bg-white shadow">
+			<a href="#" class="text-gray-700 font-bold py-2 px-6">
+				Start
+			</a>
+		</div>
+	</div>
+</div> --}}
+
+<div class="bg-center bg-cover w-full h-96 flex items-center justify-center" style="background-image: url({{asset('images/desk-g6430b6e24_1920.jpg')}});">
+	<div class="flex items-center justify-center w-full h-full">
+		<div class="text-center px-5 sm:px-0 bg-blue-100  border rounded bg-opacity-50">
+			<h2 class="text-3xl sm:text-4xlfont-extrabold tracking-tight">
+				<span class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900 md:text-5xl title-font wow animated zoomIn">¿Quieres</span><br>
+				<span class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900 md:text-5xl title-font wow animated zoomIn">Potenciar tus conocimientos</span><br>
+				<span class="mb-8 mt-8 text-2xl font-black tracking-tighter text-blue-900 md:text-5xl title-font wow animated zoomIn">En Seguridad?</span>
+			</h2>
+			<h2 class="text-gray-50 mt-5 tracking-wide text-sm sm:text-base">
+				<span class="block font-bold text-xl">¡Ingresa en nuestra plataforma de cursos!</span>
+			</h2>
+			<div class="py-4 inline-flex mt-5">
+				<a href="https://cursos.seguridadislander.com.mx" target="_blank" class="inline-flex items-center justify-center bg-blue-900 px-4 py-3 h-24 w-44 border text-white text-xl md:text-2xl rounded-md font-bold hover:bg-transparent">¿A qué esperas para probarla?</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
 
 {{-- seccon footer --}}
 <footer class="flex pt-8 pb-6 z-0 bg-white">
