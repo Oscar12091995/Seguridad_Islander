@@ -101,7 +101,7 @@
         <!-- COMPONENT CODE -->
   
 </section>
-{{-- Fin sección de contacto
-     --}}
+@include('curso')
+
 @endsection
 

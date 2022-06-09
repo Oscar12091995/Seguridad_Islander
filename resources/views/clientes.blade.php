@@ -55,4 +55,6 @@
     </div>
 </section>
 {{-- Fin sección slide --}}
+
+@include('curso')
 @endsection

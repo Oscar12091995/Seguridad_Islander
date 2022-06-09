@@ -195,8 +195,11 @@
           </div>
         </section>
         {{-- fin sección conteo--}}     
+        @include('curso')
         
     @stop
+
+    
 
     
 

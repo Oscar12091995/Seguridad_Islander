@@ -211,4 +211,6 @@
       </div>
     </section>
     {{-- fin seccion --}}
+
+    @include('curso')
 @stop
